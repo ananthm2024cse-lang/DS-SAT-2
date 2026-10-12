@@ -1,0 +1,6 @@
+file,rows_including_intentional_issues,columns,column_names
+accounts.csv,453,7,"Account_ID, Customer_ID, Account_Type, Balance, Balance_Band, Account_Open_Date, Status"
+channels.csv,1200,5,"Customer_ID, Channel, Usage_Count_30D, Last_Used_Date, Preferred_Channel"
+customers.csv,300,6,"Customer_ID, Age_Band, Region, Relationship_Years, Customer_Segment, Join_Date"
+service.csv,1100,8,"Service_ID, Customer_ID, Request_Date, Request_Type, Is_Complaint, Resolution_Status, Resolution_Days, Service_Channel"
+transactions.csv,6503,7,"Transaction_ID, Customer_ID, Account_ID, Transaction_Date, Transaction_Type, Amount, Channel"

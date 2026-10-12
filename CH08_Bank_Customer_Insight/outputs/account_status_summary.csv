@@ -1,0 +1,14 @@
+Account_Type,Status,Account_Count
+Current,Active,48
+Current,Dormant,3
+Current,Inactive,14
+Fixed Deposit,Active,72
+Fixed Deposit,Dormant,5
+Fixed Deposit,Inactive,15
+Loan,Active,22
+Loan,Dormant,3
+Loan,Inactive,3
+Savings,Active,221
+Savings,Dormant,11
+Savings,Inactive,35
+Unknown,Active,1

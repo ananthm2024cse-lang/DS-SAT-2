@@ -1,0 +1,1101 @@
+Service_ID,Customer_ID,Request_Date,Request_Type,Is_Complaint,Resolution_Status,Resolution_Days,Service_Channel
+S00001,C0033,2025-10-02,Password reset,Yes,Resolved,3.0,Phone
+S00002,C0055,2026-01-26,Digital banking help,No,Resolved,2.0,Mobile App
+S00003,C0059,2026-06-19,Card issue,No,Resolved,1.0,Branch
+S00004,C0255,2026-07-30,Card issue,No,Resolved,1.0,Branch
+S00005,C0113,2026-01-15,Loan enquiry,No,Resolved,1.0,Email
+S00006,C0033,2026-06-12,Transaction dispute,No,Resolved,1.0,Website
+S00007,C0104,2025-12-31,Transaction dispute,No,Resolved,2.0,Website
+S00008,C0219,2026-04-18,Digital banking help,No,Resolved,1.0,Email
+S00009,C0173,2026-03-21,Balance enquiry,No,Resolved,2.0,Branch
+S00010,C0206,2026-01-08,Card issue,No,Pending,14.0,Website
+S00011,C0167,2026-04-27,Digital banking help,No,Resolved,2.0,Branch
+S00012,C0062,2026-07-21,Digital banking help,No,Pending,8.0,Mobile App
+S00013,C0295,2026-03-06,Balance enquiry,Unknown,Resolved,1.0,Phone
+S00014,C0280,2026-06-19,Transaction dispute,No,Resolved,1.0,Email
+S00015,C0071,2026-03-11,Account update,No,Resolved,2.0,Phone
+S00016,C0165,2025-11-16,Balance enquiry,No,Resolved,0.0,Phone
+S00017,C0110,2025-11-29,Password reset,No,Resolved,0.0,Website
+S00018,C0024,2026-05-04,Account update,Yes,Resolved,0.0,Mobile App
+S00019,C0089,2026-04-08,Account update,Yes,Resolved,1.0,Branch
+S00020,C0172,2026-02-09,Account update,Yes,Resolved,6.0,Branch
+S00021,C0033,2026-08-09,Card issue,No,Escalated,4.0,Mobile App
+S00022,C0062,2026-08-28,Password reset,No,Resolved,3.0,Branch
+S00023,C0141,2025-11-23,Card issue,Yes,Pending,7.0,Phone
+S00024,C0073,2026-07-23,Card issue,No,Resolved,2.0,Mobile App
+S00025,C0213,2025-10-16,Loan enquiry,Yes,Resolved,2.0,Branch
+S00026,C0087,2026-02-13,Password reset,No,Escalated,5.0,Email
+S00027,C0190,2026-01-11,Account update,No,Resolved,0.0,Mobile App
+S00028,C0284,2026-09-12,Card issue,No,Resolved,2.0,Email
+S00029,C0085,2026-01-28,Digital banking help,No,Resolved,1.0,Phone
+S00030,C0225,2026-07-04,Loan enquiry,No,Resolved,2.0,Branch
+S00031,C0125,2026-06-10,Card issue,Yes,Resolved,0.0,Phone
+S00032,C0298,2026-05-09,Password reset,No,Resolved,0.0,Mobile App
+S00033,C0021,2025-12-19,Digital banking help,Yes,Pending,8.0,Mobile App
+S00034,C0069,2025-12-09,Transaction dispute,Yes,Resolved,3.0,Phone
+S00035,C0052,2026-09-21,Loan enquiry,No,Resolved,6.0,Website
+S00036,C0193,2026-02-05,Digital banking help,Yes,Pending,6.0,Phone
+S00037,C0081,2026-08-29,Transaction dispute,Yes,Resolved,4.0,Mobile App
+S00038,C0009,2026-09-09,Loan enquiry,No,Resolved,0.0,Mobile App
+S00039,C0250,2026-07-28,Balance enquiry,No,Escalated,6.0,Email
+S00040,C0042,2025-11-03,Card issue,No,Resolved,2.0,Website
+S00041,C0004,2026-03-06,Balance enquiry,No,Resolved,1.0,Branch
+S00042,C0004,2026-08-19,Balance enquiry,No,Resolved,2.0,Branch
+S00043,C0092,2025-11-21,Card issue,Yes,Escalated,,Branch
+S00044,C0046,2025-10-05,Card issue,No,Resolved,0.0,Website
+S00045,C0146,2026-06-29,Transaction dispute,No,Pending,6.0,Website
+S00046,C0214,2026-01-17,Account update,Yes,Pending,9.0,Branch
+S00047,C0244,2025-12-13,Loan enquiry,No,Resolved,1.0,Mobile App
+S00048,C0065,2026-01-31,Card issue,No,Pending,1.0,Phone
+S00049,C0106,2026-05-14,Password reset,Yes,Resolved,4.0,Website
+S00050,C0074,2026-08-13,Account update,No,Pending,8.0,Website
+S00051,C0139,2026-06-21,Password reset,No,Resolved,4.0,Website
+S00052,C0268,2025-12-25,Account update,No,Resolved,0.0,Branch
+S00053,C0231,2025-11-06,Card issue,No,Resolved,1.0,Email
+S00054,C0211,2026-04-24,Balance enquiry,Yes,Pending,8.0,Mobile App
+S00055,C0123,2026-06-28,Password reset,Yes,Resolved,0.0,Branch
+S00056,C0090,2026-06-29,Loan enquiry,No,Resolved,1.0,Phone
+S00057,C0020,2026-06-02,Password reset,No,Pending,4.0,Email
+S00058,C0093,2025-10-16,Transaction dispute,No,Pending,6.0,Mobile App
+S00059,C0256,2026-02-21,Transaction dispute,No,Resolved,2.0,Phone
+S00060,C0046,2026-08-11,Transaction dispute,Yes,Resolved,2.0,Mobile App
+S00061,C0155,2025-11-22,Digital banking help,Yes,Resolved,2.0,Mobile App
+S00062,C0179,2026-04-23,Balance enquiry,No,Escalated,7.0,Phone
+S00063,C0215,2025-10-03,Password reset,Yes,Resolved,0.0,Website
+S00064,C0003,2025-10-16,Digital banking help,No,Pending,9.0,Phone
+S00065,C0286,2026-08-25,Account update,Yes,Resolved,2.0,Website
+S00066,C0121,2026-05-11,Transaction dispute,Yes,Pending,5.0,Phone
+S00067,C0099,2026-09-13,Loan enquiry,No,Escalated,7.0,Phone
+S00068,C0061,2026-04-28,Password reset,No,Resolved,1.0,Email
+S00069,C0272,2026-08-28,Balance enquiry,Yes,Resolved,2.0,Email
+S00070,C0049,2026-03-20,Password reset,Yes,Resolved,1.0,Mobile App
+S00071,C0186,2026-07-05,Transaction dispute,No,Resolved,1.0,Website
+S00072,C0277,2025-11-01,Account update,No,Resolved,4.0,Branch
+S00073,C0260,2025-11-21,Password reset,Yes,Resolved,2.0,Branch
+S00074,C0113,2026-06-07,Digital banking help,No,Resolved,6.0,Branch
+S00075,C0238,2026-01-15,Card issue,Yes,Escalated,5.0,Email
+S00076,C0107,2026-07-22,Loan enquiry,No,Resolved,0.0,Branch
+S00077,C0142,2026-06-03,Loan enquiry,No,Pending,7.0,Website
+S00078,C0028,2026-02-11,Digital banking help,No,Escalated,5.0,Phone
+S00079,C0100,2026-04-26,Password reset,No,Resolved,2.0,Branch
+S00080,C0058,2026-03-15,Transaction dispute,No,Escalated,5.0,Phone
+S00081,C0077,2026-04-22,Password reset,No,Pending,5.0,Mobile App
+S00082,C0243,2026-09-21,Loan enquiry,No,Resolved,3.0,Website
+S00083,C0255,2026-01-31,Digital banking help,No,Pending,2.0,Website
+S00084,C0091,2026-02-20,Digital banking help,No,Resolved,8.0,Website
+S00085,C0082,2026-08-06,Loan enquiry,Yes,Resolved,2.0,Website
+S00086,C0023,2026-05-04,Digital banking help,No,Resolved,0.0,Website
+S00087,C0028,2026-06-20,Card issue,No,Resolved,5.0,Mobile App
+S00088,C0187,2026-08-10,Password reset,No,Resolved,3.0,Branch
+S00089,C0146,2026-07-04,Password reset,Unknown,Pending,5.0,Mobile App
+S00090,C0108,2026-05-01,Digital banking help,Yes,Resolved,3.0,Branch
+S00091,C0223,2025-12-01,Card issue,No,Resolved,1.0,Website
+S00092,C0129,2026-08-27,Transaction dispute,No,Resolved,2.0,Mobile App
+S00093,C0172,2026-01-03,Card issue,No,Resolved,4.0,Phone
+S00094,C0233,2026-04-11,Card issue,No,Resolved,2.0,Mobile App
+S00095,C0023,2025-12-21,Card issue,Yes,Escalated,9.0,Branch
+S00096,C0054,2026-09-09,Loan enquiry,No,Resolved,1.0,Email
+S00097,C0027,2026-06-10,Password reset,No,Resolved,5.0,Website
+S00098,C0276,2026-05-15,Balance enquiry,No,Pending,13.0,Branch
+S00099,C0091,2025-10-20,Digital banking help,No,Resolved,2.0,Mobile App
+S00100,C0081,2025-10-03,Digital banking help,No,Resolved,2.0,Mobile App
+S00101,C0015,2026-02-07,Card issue,No,Resolved,2.0,Email
+S00102,C0249,2026-02-06,Balance enquiry,No,Resolved,0.0,Branch
+S00103,C0264,2025-11-28,Digital banking help,Yes,Pending,7.0,Email
+S00104,C0060,2026-02-27,Card issue,No,Resolved,3.0,Mobile App
+S00105,C0037,2025-12-18,Balance enquiry,Yes,Resolved,3.0,Branch
+S00106,C0121,2026-02-23,Account update,No,Resolved,4.0,Phone
+S00107,C0228,2025-11-15,Balance enquiry,No,Escalated,7.0,Branch
+S00108,C0297,2025-11-03,Loan enquiry,Yes,Pending,4.0,Mobile App
+S00109,C0167,2025-11-25,Card issue,No,Escalated,2.0,Branch
+S00110,C0215,2026-03-19,Account update,No,Resolved,0.0,Website
+S00111,C0102,2026-08-16,Card issue,No,Resolved,3.0,Phone
+S00112,C0167,2025-11-27,Account update,No,Resolved,5.0,Phone
+S00113,C0118,2026-03-22,Account update,No,Resolved,0.0,Mobile App
+S00114,C0057,2026-07-29,Balance enquiry,No,Resolved,3.0,Email
+S00115,C0167,2025-12-24,Digital banking help,No,Resolved,0.0,Mobile App
+S00116,C0117,2025-10-27,Transaction dispute,Yes,Resolved,4.0,Website
+S00117,C0051,2026-06-03,Transaction dispute,No,Pending,8.0,Website
+S00118,C0122,2026-03-21,Loan enquiry,Yes,Resolved,1.0,Mobile App
+S00119,C0212,2025-11-27,Transaction dispute,No,Pending,5.0,Phone
+S00120,C0103,2026-04-16,Digital banking help,No,Resolved,3.0,Phone
+S00121,C0193,2026-07-11,Loan enquiry,No,Resolved,1.0,Website
+S00122,C0113,2026-04-29,Balance enquiry,No,Resolved,1.0,Mobile App
+S00123,C0038,2025-10-30,Password reset,No,Resolved,4.0,Phone
+S00124,C0242,2025-11-01,Transaction dispute,No,Resolved,5.0,Mobile App
+S00125,C0300,2026-03-05,Balance enquiry,Yes,Resolved,1.0,Branch
+S00126,C0249,2026-05-29,Transaction dispute,No,Resolved,0.0,Phone
+S00127,C0028,2025-10-10,Account update,No,Pending,5.0,Website
+S00128,C0224,2025-12-12,Account update,Yes,Escalated,8.0,Email
+S00129,C0075,2026-05-02,Transaction dispute,Yes,Resolved,2.0,Website
+S00130,C0111,2025-12-20,Card issue,No,Escalated,8.0,Phone
+S00131,C0233,2026-04-30,Card issue,Yes,Resolved,2.0,Mobile App
+S00132,C0092,2026-06-23,Digital banking help,No,Resolved,6.0,Mobile App
+S00133,C0199,2026-09-12,Digital banking help,No,Resolved,5.0,Website
+S00134,C0192,2026-04-16,Card issue,No,Resolved,3.0,Mobile App
+S00135,C0070,2025-11-06,Loan enquiry,No,Pending,3.0,Mobile App
+S00136,C0235,2025-11-15,Digital banking help,No,Resolved,0.0,Phone
+S00137,C0100,2026-04-11,Digital banking help,Yes,Pending,7.0,Mobile App
+S00138,C0184,2025-10-21,Digital banking help,No,Resolved,2.0,Website
+S00139,C0139,2026-03-23,Card issue,Yes,Resolved,2.0,Website
+S00140,C0104,2026-08-29,Balance enquiry,No,Resolved,2.0,Website
+S00141,C0172,2026-03-11,Transaction dispute,No,Pending,6.0,Branch
+S00142,C0066,2026-07-09,Balance enquiry,Yes,Resolved,3.0,Branch
+S00143,C0017,2026-04-25,Account update,Yes,Resolved,3.0,Branch
+S00144,C0292,2026-08-27,Account update,Yes,Pending,3.0,Mobile App
+S00145,C0031,2026-09-10,Balance enquiry,Yes,Resolved,0.0,Mobile App
+S00146,C0144,2026-07-10,Balance enquiry,No,Resolved,1.0,Branch
+S00147,C0070,2026-01-09,Loan enquiry,No,Resolved,1.0,Mobile App
+S00148,C0057,2026-01-04,Balance enquiry,Yes,Resolved,2.0,Branch
+S00149,C0239,2026-07-03,Password reset,Yes,Resolved,3.0,Mobile App
+S00150,C0235,2025-11-13,Account update,No,Resolved,1.0,Branch
+S00151,C0215,2026-09-13,Balance enquiry,No,Pending,5.0,Mobile App
+S00152,C0088,2026-08-15,Digital banking help,No,Resolved,1.0,Branch
+S00153,C0176,2025-12-14,Password reset,No,Resolved,5.0,Mobile App
+S00154,C0113,2026-09-15,Card issue,No,Resolved,4.0,Mobile App
+S00155,C0152,2025-10-09,Loan enquiry,No,Resolved,2.0,Branch
+S00156,C0081,2026-06-16,Digital banking help,No,Resolved,2.0,Mobile App
+S00157,C0088,2025-12-16,Account update,No,Resolved,1.0,Website
+S00158,C0296,2026-07-18,Loan enquiry,No,Pending,1.0,Branch
+S00159,C0284,2026-04-10,Balance enquiry,No,Resolved,2.0,Mobile App
+S00160,C0118,2026-08-02,Account update,No,Escalated,4.0,Branch
+S00161,C0045,2026-06-19,Digital banking help,No,Escalated,10.0,Phone
+S00162,C0211,2026-06-21,Password reset,No,Resolved,3.0,Phone
+S00163,C0268,2026-08-21,Password reset,No,Resolved,3.0,Branch
+S00164,C0251,2026-01-20,Card issue,No,Pending,6.0,Phone
+S00165,C0111,2026-04-03,Account update,No,Resolved,5.0,Mobile App
+S00166,C0243,2026-06-26,Account update,No,Resolved,0.0,Phone
+S00167,C0237,2026-09-02,Balance enquiry,No,Pending,10.0,Mobile App
+S00168,C0143,2025-11-13,Balance enquiry,No,Resolved,5.0,Website
+S00169,C0008,2026-08-29,Card issue,Yes,Pending,8.0,Branch
+S00170,C0220,2026-08-03,Digital banking help,No,Resolved,11.0,Branch
+S00171,C0127,2026-02-22,Balance enquiry,No,Resolved,2.0,Mobile App
+S00172,C0127,2026-02-19,Card issue,Yes,Pending,4.0,Branch
+S00173,C0168,2026-08-09,Card issue,No,Resolved,3.0,Mobile App
+S00174,C0223,2026-08-16,Transaction dispute,No,Resolved,2.0,Phone
+S00175,C0297,2025-12-07,Transaction dispute,No,Resolved,2.0,Branch
+S00176,C0114,2026-05-18,Account update,No,Resolved,5.0,Mobile App
+S00177,C0077,2025-10-23,Card issue,No,Pending,8.0,Mobile App
+S00178,C0294,2025-10-04,Password reset,No,Escalated,8.0,Phone
+S00179,C0003,2025-12-03,Account update,Yes,Pending,6.0,Mobile App
+S00180,C0214,2026-07-20,Transaction dispute,No,Resolved,7.0,Phone
+S00181,C0023,2025-12-20,Digital banking help,Yes,Pending,5.0,Email
+S00182,C0021,2026-01-27,Password reset,Yes,Resolved,3.0,Mobile App
+S00183,C0241,2026-05-03,Balance enquiry,No,Escalated,4.0,Email
+S00184,C0259,2026-05-14,Account update,Yes,Escalated,3.0,Branch
+S00185,C0018,2025-10-11,Password reset,No,Resolved,0.0,Email
+S00186,C0218,2025-12-26,Transaction dispute,Yes,Resolved,8.0,Mobile App
+S00187,C0272,2025-11-04,Balance enquiry,No,Resolved,0.0,Mobile App
+S00188,C0202,2026-09-02,Password reset,Yes,Resolved,5.0,Phone
+S00189,C0246,2026-09-07,Balance enquiry,No,Pending,9.0,Phone
+S00190,C0051,2026-04-08,Balance enquiry,No,Resolved,2.0,Website
+S00191,C0232,2026-07-13,Loan enquiry,No,Resolved,4.0,Email
+S00192,C0254,2026-07-11,Account update,Yes,Resolved,3.0,Mobile App
+S00193,C0124,2025-12-05,Card issue,Yes,Resolved,1.0,Branch
+S00194,C0043,2026-04-04,Card issue,No,Resolved,9.0,Branch
+S00195,C0286,2026-09-16,Card issue,No,Pending,8.0,Phone
+S00196,C0007,2026-09-24,Password reset,No,Escalated,10.0,Website
+S00197,C0209,2026-08-27,Account update,No,Resolved,4.0,Website
+S00198,C0112,2026-09-23,Transaction dispute,No,Resolved,4.0,Email
+S00199,C0068,2026-07-22,Card issue,Yes,Resolved,4.0,Website
+S00200,C0184,2026-09-05,Digital banking help,No,Resolved,6.0,Mobile App
+S00201,C0152,2026-03-03,Transaction dispute,Yes,Resolved,5.0,Branch
+S00202,C0123,2026-03-08,Digital banking help,No,Escalated,2.0,Phone
+S00203,C0047,2026-06-27,Digital banking help,Yes,Resolved,4.0,Phone
+S00204,C0009,2026-08-19,Account update,No,Resolved,8.0,Website
+S00205,C0246,2026-05-19,Balance enquiry,No,Resolved,2.0,Phone
+S00206,C0157,2026-07-04,Loan enquiry,No,Resolved,2.0,Website
+S00207,C0083,2025-10-28,Transaction dispute,No,Resolved,2.0,Website
+S00208,C0236,2026-01-23,Card issue,No,Resolved,2.0,Branch
+S00209,C0293,2026-07-09,Password reset,No,Resolved,4.0,Branch
+S00210,C0299,2025-11-01,Balance enquiry,No,Resolved,3.0,Branch
+S00211,C0013,2026-06-21,Password reset,No,Resolved,2.0,Email
+S00212,C0233,2026-07-10,Transaction dispute,No,Pending,9.0,Mobile App
+S00213,C0238,2026-04-04,Account update,No,Resolved,10.0,Mobile App
+S00214,C0071,2026-09-03,Balance enquiry,No,Pending,7.0,Branch
+S00215,C0208,2026-05-10,Card issue,Yes,Pending,3.0,Website
+S00216,C0095,2026-01-18,Account update,Yes,Resolved,2.0,Email
+S00217,C0190,2026-02-13,Digital banking help,No,Resolved,1.0,Branch
+S00218,C0238,2026-01-21,Account update,No,Resolved,1.0,Website
+S00219,C0001,2025-10-01,Transaction dispute,No,Resolved,4.0,Mobile App
+S00220,C0037,2026-06-10,Loan enquiry,Yes,Pending,7.0,Phone
+S00221,C0198,2026-09-26,Balance enquiry,No,Pending,4.0,Mobile App
+S00222,C0171,2025-10-01,Balance enquiry,No,Resolved,4.0,Mobile App
+S00223,C0272,2026-02-05,Digital banking help,Yes,Resolved,6.0,Email
+S00224,C0017,2026-09-30,Loan enquiry,No,Resolved,3.0,Mobile App
+S00225,C0152,2025-10-07,Transaction dispute,No,Resolved,3.0,Website
+S00226,C0219,2026-02-14,Digital banking help,No,Resolved,1.0,Mobile App
+S00227,C0139,2026-01-01,Account update,Yes,Escalated,7.0,Email
+S00228,C0278,2026-06-04,Loan enquiry,Yes,Resolved,2.0,Email
+S00229,C0295,2026-01-31,Account update,No,Resolved,1.0,Mobile App
+S00230,C0107,2025-12-21,Digital banking help,No,Resolved,1.0,Phone
+S00231,C0042,2026-07-28,Card issue,Yes,Resolved,3.0,Website
+S00232,C0172,2025-12-07,Password reset,No,Resolved,3.0,Phone
+S00233,C0029,2026-09-13,Password reset,Yes,Pending,3.0,Phone
+S00234,C0264,2025-12-28,Password reset,No,Resolved,1.0,Branch
+S00235,C0187,2026-08-09,Digital banking help,Yes,Escalated,8.0,Phone
+S00236,C0027,2026-03-12,Transaction dispute,No,Resolved,0.0,Website
+S00237,C0057,2026-09-16,Balance enquiry,No,Resolved,8.0,Phone
+S00238,C0197,2026-06-24,Card issue,No,Resolved,0.0,Branch
+S00239,C0188,2026-07-05,Account update,No,Pending,10.0,Branch
+S00240,C0239,2026-08-01,Card issue,Yes,Resolved,2.0,Website
+S00241,C0021,2026-06-02,Transaction dispute,No,Resolved,4.0,Mobile App
+S00242,C0188,2026-09-30,Password reset,Yes,Resolved,1.0,Phone
+S00243,C0188,2026-03-20,Loan enquiry,Yes,Resolved,2.0,Mobile App
+S00244,C0090,2025-11-19,Card issue,No,Pending,9.0,Website
+S00245,C0287,2026-02-12,Balance enquiry,Yes,Resolved,1.0,Branch
+S00246,C0035,2025-11-23,Balance enquiry,Yes,Resolved,1.0,Mobile App
+S00247,C0288,2026-08-03,Loan enquiry,No,Resolved,1.0,Website
+S00248,C0105,2026-01-25,Balance enquiry,Yes,Resolved,2.0,Phone
+S00249,C0071,2026-02-18,Digital banking help,No,Resolved,2.0,Website
+S00250,C0172,2026-01-25,Loan enquiry,No,Pending,8.0,Branch
+S00251,C0123,2026-07-31,Digital banking help,No,Resolved,1.0,Branch
+S00252,C0277,2026-02-16,Account update,No,Resolved,1.0,Branch
+S00253,C0059,2026-06-16,Balance enquiry,Yes,Resolved,1.0,Mobile App
+S00254,C0245,2025-12-29,Loan enquiry,Yes,Pending,11.0,Phone
+S00255,C0298,2025-12-13,Transaction dispute,Yes,Resolved,2.0,Phone
+S00256,C0108,2026-06-05,Loan enquiry,No,Resolved,0.0,Website
+S00257,C0116,2026-02-09,Password reset,No,Escalated,11.0,Email
+S00258,C0165,2026-01-31,Card issue,Yes,Escalated,2.0,Phone
+S00259,C0181,2026-07-06,Balance enquiry,No,Pending,12.0,Phone
+S00260,C0137,2026-05-06,Card issue,No,Resolved,3.0,Mobile App
+S00261,C0258,2025-11-13,Password reset,No,Resolved,0.0,Mobile App
+S00262,C0217,2026-02-07,Balance enquiry,Yes,Resolved,2.0,Website
+S00263,C0142,2026-09-25,Transaction dispute,No,Resolved,1.0,Mobile App
+S00264,C0028,2026-07-10,Password reset,No,Escalated,4.0,Phone
+S00265,C0033,2026-01-18,Balance enquiry,No,Escalated,9.0,Website
+S00266,C0191,2026-03-28,Password reset,No,Pending,10.0,Phone
+S00267,C0177,2026-04-23,Transaction dispute,No,Resolved,4.0,Phone
+S00268,C0232,2025-10-09,Card issue,No,Resolved,1.0,Website
+S00269,C0249,2025-12-17,Account update,No,Resolved,2.0,Mobile App
+S00270,C0257,2025-12-05,Password reset,No,Resolved,2.0,Website
+S00271,C0270,2025-12-27,Loan enquiry,Yes,Resolved,3.0,Mobile App
+S00272,C0063,2026-02-11,Account update,Yes,Resolved,0.0,Website
+S00273,C0241,2026-06-29,Password reset,No,Resolved,5.0,Branch
+S00274,C0273,2026-03-29,Card issue,No,Resolved,3.0,Email
+S00275,C0273,2025-12-05,Digital banking help,Yes,Resolved,3.0,Phone
+S00276,C0150,2026-08-09,Digital banking help,No,Resolved,8.0,Branch
+S00277,C0232,2026-05-04,Loan enquiry,No,Resolved,3.0,Branch
+S00278,C0189,2026-04-21,Digital banking help,No,Resolved,1.0,Branch
+S00279,C0034,2025-11-16,Digital banking help,Yes,Resolved,2.0,Phone
+S00280,C0097,2025-12-29,Transaction dispute,No,Resolved,0.0,Website
+S00281,C0235,2025-11-14,Digital banking help,Yes,Resolved,1.0,Branch
+S00282,C0045,2025-10-18,Card issue,No,Resolved,3.0,Phone
+S00283,C0042,2025-10-10,Balance enquiry,Yes,Resolved,9.0,Phone
+S00284,C0201,2026-03-13,Card issue,No,Resolved,3.0,Branch
+S00285,C0092,2026-03-24,Balance enquiry,No,Resolved,1.0,Website
+S00286,C0148,2026-05-01,Password reset,No,Resolved,4.0,Phone
+S00287,C0040,2025-11-25,Password reset,No,Resolved,0.0,Mobile App
+S00288,C0056,2026-04-22,Loan enquiry,No,Resolved,0.0,Mobile App
+S00289,C0085,2026-09-14,Digital banking help,No,Resolved,2.0,Branch
+S00290,C0142,2026-01-24,Card issue,Yes,Resolved,2.0,Website
+S00291,C0058,2026-07-04,Transaction dispute,Yes,Resolved,6.0,Email
+S00292,C0076,2026-07-22,Account update,No,Pending,7.0,Mobile App
+S00293,C0255,2026-07-12,Loan enquiry,No,Resolved,3.0,Phone
+S00294,C0078,2025-12-24,Password reset,Yes,Resolved,1.0,Mobile App
+S00295,C0105,2026-03-10,Digital banking help,No,Escalated,9.0,Branch
+S00296,C0267,2026-08-17,Password reset,No,Pending,5.0,Phone
+S00297,C0012,2025-10-01,Account update,No,Resolved,0.0,Mobile App
+S00298,C0151,2026-04-19,Account update,Yes,Resolved,1.0,Website
+S00299,C0214,2026-04-27,Loan enquiry,Yes,Resolved,2.0,Phone
+S00300,C0278,2025-12-02,Transaction dispute,No,Resolved,1.0,Phone
+S00301,C0068,2025-12-13,Loan enquiry,Yes,Resolved,2.0,Website
+S00302,C0243,2026-03-30,Digital banking help,Unknown,Resolved,3.0,Phone
+S00303,C0178,2025-11-26,Password reset,No,Resolved,5.0,Branch
+S00304,C0216,2025-11-07,Balance enquiry,No,Resolved,3.0,Phone
+S00305,C0228,2026-07-25,Card issue,No,Resolved,1.0,Branch
+S00306,C0011,2026-05-04,Card issue,Yes,Resolved,1.0,Mobile App
+S00307,C0150,2026-01-05,Loan enquiry,No,Escalated,8.0,Branch
+S00308,C0097,2026-04-26,Card issue,No,Resolved,3.0,Website
+S00309,C0033,2026-03-25,Password reset,No,Resolved,4.0,Phone
+S00310,C0012,2025-12-22,Card issue,No,Resolved,5.0,Branch
+S00311,C0119,2025-11-02,Loan enquiry,No,Resolved,2.0,Phone
+S00312,C0267,2026-04-10,Card issue,Yes,Escalated,1.0,Phone
+S00313,C0172,2025-11-04,Digital banking help,No,Resolved,9.0,Phone
+S00314,C0211,2026-02-24,Balance enquiry,No,Resolved,2.0,Branch
+S00315,C0297,2026-03-25,Card issue,No,Resolved,1.0,Website
+S00316,C0176,2026-09-08,Digital banking help,No,Resolved,3.0,Phone
+S00317,C0168,2026-06-18,Loan enquiry,No,Resolved,1.0,Mobile App
+S00318,C0249,2026-03-12,Transaction dispute,No,Resolved,0.0,Phone
+S00319,C0272,2026-02-18,Card issue,No,Resolved,1.0,Website
+S00320,C0281,2026-06-18,Loan enquiry,No,Resolved,2.0,Branch
+S00321,C0228,2025-10-14,Account update,No,Resolved,2.0,Website
+S00322,C0235,2026-06-12,Loan enquiry,Yes,Resolved,1.0,Phone
+S00323,C0156,2026-03-17,Digital banking help,No,Resolved,6.0,Mobile App
+S00324,C0291,2026-03-19,Transaction dispute,No,Resolved,2.0,Phone
+S00325,C0068,2026-03-31,Card issue,Yes,Resolved,1.0,Mobile App
+S00326,C0157,2025-11-18,Digital banking help,No,Resolved,1.0,Branch
+S00327,C0088,2026-04-24,Password reset,No,Escalated,7.0,Branch
+S00328,C0134,2026-04-17,Balance enquiry,Yes,Resolved,5.0,Branch
+S00329,C0117,2026-02-22,Transaction dispute,Yes,Pending,6.0,Mobile App
+S00330,C0248,2025-12-18,Transaction dispute,No,Resolved,6.0,Email
+S00331,C0191,2025-10-03,Balance enquiry,Yes,Resolved,3.0,Phone
+S00332,C0148,2026-06-13,Password reset,No,Resolved,5.0,Website
+S00333,C0025,2026-08-12,Password reset,No,Resolved,1.0,Branch
+S00334,C0076,2026-04-11,Digital banking help,Yes,Resolved,0.0,Branch
+S00335,C0181,2026-07-08,Card issue,Yes,Resolved,0.0,Branch
+S00336,C0146,2026-05-16,Account update,No,Resolved,2.0,Phone
+S00337,C0234,2026-03-05,Card issue,No,Resolved,1.0,Website
+S00338,C0086,2025-10-01,Card issue,Yes,Resolved,1.0,Mobile App
+S00339,C0083,2025-11-17,Digital banking help,Yes,Pending,6.0,Branch
+S00340,C0275,2026-06-02,Card issue,Yes,Escalated,8.0,Phone
+S00341,C0147,2026-07-20,Balance enquiry,No,Pending,14.0,Website
+S00342,C0094,2026-06-03,Transaction dispute,No,Pending,10.0,Phone
+S00343,C0090,2025-10-14,Transaction dispute,No,Resolved,8.0,Website
+S00344,C0079,2026-07-26,Balance enquiry,No,Resolved,2.0,Branch
+S00345,C0083,2026-01-12,Password reset,No,Resolved,0.0,Phone
+S00346,C0122,2026-06-04,Transaction dispute,Yes,Resolved,2.0,Branch
+S00347,C0060,2026-06-27,Digital banking help,No,Resolved,3.0,Email
+S00348,C0022,2025-10-25,Card issue,Yes,Resolved,4.0,Phone
+S00349,C0163,2026-07-15,Loan enquiry,Yes,Resolved,1.0,Website
+S00350,C0295,2025-12-31,Balance enquiry,No,Resolved,2.0,Mobile App
+S00351,C0065,2026-05-05,Digital banking help,No,Resolved,2.0,Branch
+S00352,C0226,2026-09-23,Card issue,No,Resolved,0.0,Branch
+S00353,C0134,2026-07-13,Digital banking help,No,Resolved,3.0,Website
+S00354,C0190,2026-08-17,Transaction dispute,No,Resolved,2.0,Phone
+S00355,C0095,2026-09-10,Transaction dispute,No,Resolved,2.0,Phone
+S00356,C0106,2025-11-05,Password reset,Yes,Resolved,4.0,Website
+S00357,C0288,2025-10-28,Balance enquiry,No,Pending,10.0,Branch
+S00358,C0018,2026-06-21,Transaction dispute,No,Resolved,2.0,Mobile App
+S00359,C0163,2025-12-07,Password reset,No,Resolved,5.0,Branch
+S00360,C0177,2026-04-07,Balance enquiry,No,Resolved,3.0,Website
+S00361,C0076,2026-03-28,Card issue,No,Resolved,1.0,Branch
+S00362,C0191,2026-04-22,Digital banking help,No,Resolved,1.0,Email
+S00363,C0230,2025-11-16,Transaction dispute,Yes,Pending,7.0,Phone
+S00364,C0277,2026-03-12,Transaction dispute,No,Resolved,2.0,Mobile App
+S00365,C0084,2025-10-25,Account update,No,Resolved,1.0,Website
+S00366,C0274,2026-09-30,Balance enquiry,Yes,Resolved,0.0,Mobile App
+S00367,C0155,2026-01-20,Loan enquiry,Yes,Resolved,1.0,Branch
+S00368,C0063,2026-06-03,Balance enquiry,No,Resolved,1.0,Website
+S00369,C0013,2026-05-22,Loan enquiry,No,Resolved,3.0,Branch
+S00370,C0208,2026-03-21,Balance enquiry,No,Resolved,1.0,Branch
+S00371,C0256,2026-04-24,Digital banking help,No,Resolved,3.0,Phone
+S00372,C0075,2026-09-11,Digital banking help,No,Resolved,1.0,Website
+S00373,C0235,2025-10-31,Digital banking help,No,Resolved,10.0,Branch
+S00374,C0164,2026-08-26,Loan enquiry,Yes,Escalated,3.0,Email
+S00375,C0080,2025-11-29,Transaction dispute,Yes,Resolved,3.0,Mobile App
+S00376,C0003,2025-12-17,Digital banking help,No,Resolved,1.0,Mobile App
+S00377,C0280,2026-07-31,Account update,No,Resolved,4.0,Email
+S00378,C0260,2026-07-17,Digital banking help,Yes,Resolved,3.0,Phone
+S00379,C0170,2025-12-22,Balance enquiry,No,Resolved,6.0,Branch
+S00380,C0152,2026-03-07,Balance enquiry,No,Resolved,8.0,Phone
+S00381,C0243,2025-11-24,Transaction dispute,No,Pending,2.0,Phone
+S00382,C0149,2026-02-26,Digital banking help,No,Resolved,6.0,Mobile App
+S00383,C0294,2026-01-28,Loan enquiry,Yes,Resolved,3.0,Branch
+S00384,C0076,2026-09-28,Transaction dispute,Yes,Resolved,3.0,Phone
+S00385,C0290,2026-09-03,Card issue,No,Pending,9.0,Phone
+S00386,C0227,2025-10-25,Balance enquiry,No,Pending,3.0,Phone
+S00387,C0174,2026-09-24,Loan enquiry,No,Resolved,1.0,Phone
+S00388,C0058,2026-08-17,Transaction dispute,Yes,Resolved,2.0,Mobile App
+S00389,C0246,2026-09-03,Card issue,No,Resolved,0.0,Phone
+S00390,C0021,2025-12-05,Account update,No,Resolved,2.0,Mobile App
+S00391,C0072,2025-10-21,Transaction dispute,No,Resolved,2.0,Phone
+S00392,C0283,2025-11-14,Loan enquiry,No,Resolved,2.0,Phone
+S00393,C0060,2025-12-30,Account update,No,Resolved,1.0,Phone
+S00394,C0158,2026-05-02,Account update,Yes,Resolved,3.0,Mobile App
+S00395,C0013,2026-05-15,Password reset,No,Resolved,2.0,Mobile App
+S00396,C0206,2026-08-26,Balance enquiry,No,Resolved,0.0,Branch
+S00397,C0113,2026-07-09,Transaction dispute,No,Resolved,1.0,Branch
+S00398,C0229,2025-11-05,Digital banking help,No,Resolved,0.0,Branch
+S00399,C0183,2026-07-29,Transaction dispute,No,Resolved,4.0,Email
+S00400,C0048,2026-03-03,Loan enquiry,No,Resolved,1.0,Email
+S00401,C0168,2026-08-03,Password reset,Yes,Pending,3.0,Branch
+S00402,C0029,2026-09-12,Balance enquiry,No,Resolved,6.0,Mobile App
+S00403,C0100,2026-08-31,Digital banking help,Yes,Resolved,1.0,Branch
+S00404,C0299,2026-02-03,Loan enquiry,No,Resolved,3.0,Branch
+S00405,C0270,2026-03-12,Digital banking help,No,Resolved,6.0,Phone
+S00406,C0114,2026-06-30,Transaction dispute,No,Resolved,3.0,Mobile App
+S00407,C0143,2025-10-05,Password reset,No,Pending,5.0,Branch
+S00408,C0101,2026-04-05,Password reset,No,Resolved,0.0,Phone
+S00409,C0012,2026-01-14,Digital banking help,No,Pending,3.0,Email
+S00410,C0043,2025-10-19,Card issue,Yes,Pending,2.0,Phone
+S00411,C0276,2025-10-07,Password reset,Yes,Pending,7.0,Branch
+S00412,C0229,2026-01-10,Balance enquiry,Yes,Pending,8.0,Phone
+S00413,C0045,2026-01-30,Card issue,No,Resolved,2.0,Email
+S00414,C0263,2026-09-17,Account update,Yes,Resolved,0.0,Phone
+S00415,C0202,2026-05-05,Loan enquiry,No,Pending,7.0,Website
+S00416,C0100,2026-01-11,Balance enquiry,No,Resolved,8.0,Mobile App
+S00417,C0252,2026-01-10,Card issue,No,Resolved,3.0,Email
+S00418,C0163,2026-06-17,Digital banking help,No,Resolved,3.0,Phone
+S00419,C0262,2026-06-03,Transaction dispute,No,Resolved,1.0,Branch
+S00420,C0029,2026-06-04,Digital banking help,No,Resolved,3.0,Mobile App
+S00421,C0185,2026-09-20,Loan enquiry,No,Resolved,1.0,Email
+S00422,C0204,2025-11-24,Password reset,No,Pending,3.0,Phone
+S00423,C0076,2026-02-17,Digital banking help,No,Pending,3.0,Branch
+S00424,C0219,2026-03-05,Transaction dispute,No,Pending,5.0,Branch
+S00425,C0190,2026-05-09,Account update,No,Escalated,2.0,Phone
+S00426,C0198,2026-02-07,Digital banking help,Yes,Resolved,5.0,Mobile App
+S00427,C0191,2026-06-05,Transaction dispute,Yes,Resolved,4.0,Phone
+S00428,C0007,2025-10-31,Digital banking help,No,Pending,13.0,Email
+S00429,C0146,2026-03-13,Balance enquiry,No,Resolved,2.0,Mobile App
+S00430,C0177,2026-08-06,Password reset,No,Resolved,1.0,Mobile App
+S00431,C0180,2025-10-20,Transaction dispute,Yes,Resolved,1.0,Website
+S00432,C0158,2026-06-03,Digital banking help,No,Resolved,1.0,Mobile App
+S00433,C0229,2025-11-26,Transaction dispute,Yes,Resolved,2.0,Website
+S00434,C0288,2026-09-10,Account update,No,Resolved,1.0,Branch
+S00435,C0045,2025-12-29,Transaction dispute,No,Resolved,1.0,Branch
+S00436,C0111,2026-09-18,Transaction dispute,No,Resolved,9.0,Mobile App
+S00437,C0228,2026-01-09,Digital banking help,No,Resolved,6.0,Mobile App
+S00438,C0213,2026-02-16,Digital banking help,No,Pending,5.0,Website
+S00439,C0227,2025-11-05,Transaction dispute,Yes,Pending,4.0,Website
+S00440,C0148,2026-03-25,Loan enquiry,Yes,Resolved,2.0,Website
+S00441,C0084,2026-05-14,Balance enquiry,No,Resolved,6.0,Phone
+S00442,C0218,2026-06-12,Transaction dispute,No,Resolved,1.0,Email
+S00443,C0213,2026-08-26,Balance enquiry,No,Escalated,6.0,Phone
+S00444,C0072,2025-10-18,Balance enquiry,No,Resolved,4.0,Mobile App
+S00445,C0045,2026-01-28,Digital banking help,Yes,Escalated,6.0,Branch
+S00446,C0074,2026-09-27,Transaction dispute,No,Resolved,2.0,Website
+S00447,C0107,2026-05-06,Card issue,No,Resolved,3.0,Branch
+S00448,C0156,2026-04-21,Loan enquiry,Yes,Resolved,1.0,Website
+S00449,C0244,2026-03-25,Loan enquiry,Yes,Resolved,2.0,Phone
+S00450,C0269,2026-04-18,Loan enquiry,No,Resolved,3.0,Website
+S00451,C0172,2026-09-06,Digital banking help,No,Resolved,2.0,Mobile App
+S00452,C0034,2026-03-31,Password reset,No,Resolved,6.0,Phone
+S00453,C0193,2026-08-21,Balance enquiry,No,Resolved,2.0,Mobile App
+S00454,C0046,2026-07-28,Balance enquiry,No,Resolved,1.0,Website
+S00455,C0004,2026-05-03,Password reset,No,Resolved,2.0,Website
+S00456,C0210,2026-09-15,Balance enquiry,No,Resolved,2.0,Branch
+S00457,C0140,2025-10-12,Digital banking help,No,Resolved,2.0,Branch
+S00458,C0213,2026-02-14,Balance enquiry,No,Resolved,1.0,Phone
+S00459,C0090,2026-06-15,Card issue,No,Resolved,1.0,Website
+S00460,C0285,2026-01-19,Digital banking help,No,Escalated,7.0,Website
+S00461,C0237,2025-11-08,Loan enquiry,No,Escalated,8.0,Mobile App
+S00462,C0291,2026-07-15,Digital banking help,Yes,Resolved,5.0,Email
+S00463,C0071,2026-02-26,Card issue,No,Resolved,2.0,Mobile App
+S00464,C0103,2026-09-02,Balance enquiry,No,Resolved,4.0,Mobile App
+S00465,C0096,2026-09-27,Transaction dispute,No,Resolved,4.0,Phone
+S00466,C0196,2026-09-28,Digital banking help,No,Resolved,1.0,Mobile App
+S00467,C0149,2026-08-09,Loan enquiry,No,Pending,7.0,Phone
+S00468,C0284,2026-05-24,Card issue,No,Resolved,1.0,Phone
+S00469,C0252,2026-04-27,Balance enquiry,No,Resolved,6.0,Email
+S00470,C0022,2026-09-14,Loan enquiry,No,Resolved,1.0,Branch
+S00471,C0155,2026-08-06,Card issue,No,Escalated,3.0,Branch
+S00472,C0300,2026-06-02,Account update,Yes,Resolved,1.0,Website
+S00473,C0156,2026-01-05,Card issue,Yes,Resolved,3.0,Mobile App
+S00474,C0253,2026-04-23,Transaction dispute,No,Resolved,5.0,Mobile App
+S00475,C0287,2025-12-06,Account update,Yes,Resolved,1.0,Phone
+S00476,C0238,2026-08-31,Balance enquiry,Yes,Escalated,8.0,Website
+S00477,C0115,2026-04-18,Transaction dispute,No,Resolved,3.0,Branch
+S00478,C0014,2026-01-16,Password reset,Yes,Resolved,3.0,Mobile App
+S00479,C0002,2025-12-12,Loan enquiry,Yes,Escalated,5.0,Branch
+S00480,C0079,2026-07-28,Password reset,No,Resolved,3.0,Mobile App
+S00481,C0135,2026-04-07,Card issue,No,Pending,4.0,Phone
+S00482,C0154,2026-06-05,Password reset,Yes,Pending,2.0,Website
+S00483,C0242,2026-04-22,Password reset,No,Resolved,3.0,Website
+S00484,C0064,2026-03-29,Digital banking help,Yes,Pending,5.0,Email
+S00485,C0148,2026-05-14,Password reset,No,Pending,8.0,Website
+S00486,C0214,2026-06-02,Balance enquiry,Yes,Resolved,1.0,Mobile App
+S00487,C0092,2025-12-08,Account update,No,Resolved,2.0,Mobile App
+S00488,C0252,2026-08-12,Loan enquiry,No,Escalated,5.0,Phone
+S00489,C0126,2026-01-28,Digital banking help,Yes,Resolved,0.0,Website
+S00490,C0015,2025-11-08,Digital banking help,Yes,Escalated,3.0,Branch
+S00491,C0062,2026-09-25,Transaction dispute,No,Pending,5.0,Phone
+S00492,C0142,2026-06-23,Password reset,No,Resolved,2.0,Phone
+S00493,C0253,2025-12-02,Balance enquiry,No,Resolved,1.0,Phone
+S00494,C0035,2026-07-23,Balance enquiry,Yes,Resolved,1.0,Phone
+S00495,C0186,2026-05-20,Digital banking help,Yes,Resolved,7.0,Mobile App
+S00496,C0298,2025-10-02,Password reset,No,Resolved,0.0,Branch
+S00497,C0247,2025-12-06,Account update,Yes,Resolved,5.0,Branch
+S00498,C0290,2026-05-05,Card issue,No,Resolved,2.0,Branch
+S00499,C0224,2025-11-29,Password reset,No,Resolved,2.0,Branch
+S00500,C0133,2026-06-01,Balance enquiry,No,Pending,4.0,Phone
+S00501,C0244,2026-02-13,Transaction dispute,Yes,Resolved,1.0,Mobile App
+S00502,C0062,2025-10-19,Digital banking help,No,Resolved,4.0,Phone
+S00503,C0192,2026-07-19,Balance enquiry,No,Resolved,4.0,Email
+S00504,C0263,2026-02-11,Account update,No,Pending,5.0,Branch
+S00505,C0295,2026-08-11,Account update,Yes,Resolved,3.0,Mobile App
+S00506,C0009,2026-06-28,Loan enquiry,No,Pending,6.0,Website
+S00507,C0133,2026-02-16,Card issue,No,Resolved,3.0,Phone
+S00508,C0084,2026-08-15,Digital banking help,No,Resolved,0.0,Phone
+S00509,C0298,2026-03-03,Loan enquiry,Yes,Resolved,1.0,Email
+S00510,C0030,2026-09-25,Account update,Yes,Resolved,3.0,Website
+S00511,C0075,2026-03-28,Balance enquiry,Yes,Resolved,1.0,Website
+S00512,C0164,2026-07-22,Balance enquiry,No,Resolved,1.0,Mobile App
+S00513,C0237,2025-10-22,Transaction dispute,No,Resolved,2.0,Mobile App
+S00514,C0070,2026-06-11,Digital banking help,Yes,Resolved,3.0,Mobile App
+S00515,C0183,2025-12-24,Digital banking help,No,Pending,8.0,Branch
+S00516,C0084,2026-01-30,Password reset,No,Resolved,1.0,Mobile App
+S00517,C0028,2025-12-21,Account update,Yes,Resolved,2.0,Mobile App
+S00518,C0140,2026-01-31,Loan enquiry,No,Resolved,2.0,Phone
+S00519,C0185,2026-07-08,Card issue,No,Resolved,1.0,Email
+S00520,C0215,2026-06-15,Card issue,Yes,Resolved,6.0,Branch
+S00521,C0183,2026-05-04,Card issue,No,Resolved,4.0,Website
+S00522,C0025,2026-05-21,Password reset,No,Resolved,3.0,Mobile App
+S00523,C0149,2026-02-23,Loan enquiry,No,Resolved,1.0,Mobile App
+S00524,C0150,2026-08-21,Account update,Yes,Resolved,2.0,Website
+S00525,C0272,2026-02-15,Card issue,No,Resolved,1.0,Mobile App
+S00526,C0040,2025-10-29,Digital banking help,No,Escalated,9.0,Mobile App
+S00527,C0264,2026-08-12,Transaction dispute,No,Resolved,2.0,Branch
+S00528,C0100,2025-10-28,Password reset,No,Resolved,0.0,Branch
+S00529,C0094,2026-08-27,Digital banking help,No,Resolved,1.0,Mobile App
+S00530,C0049,2025-11-28,Transaction dispute,No,Pending,4.0,Email
+S00531,C0086,2025-10-19,Account update,Yes,Resolved,4.0,Mobile App
+S00532,C0279,2025-11-29,Transaction dispute,No,Resolved,1.0,Mobile App
+S00533,C0166,2026-04-04,Balance enquiry,No,Pending,15.0,Email
+S00534,C0162,2026-01-22,Digital banking help,Yes,Pending,8.0,Email
+S00535,C0155,2026-06-18,Balance enquiry,Yes,Resolved,3.0,Mobile App
+S00536,C0139,2026-04-12,Transaction dispute,Yes,Resolved,1.0,Mobile App
+S00537,C0186,2026-06-23,Card issue,Yes,Resolved,1.0,Branch
+S00538,C0050,2026-08-02,Card issue,No,Resolved,4.0,Mobile App
+S00539,C0274,2026-02-24,Loan enquiry,No,Escalated,5.0,Website
+S00540,C0297,2026-08-22,Account update,No,Resolved,0.0,Mobile App
+S00541,C0181,2026-08-28,Loan enquiry,Yes,Resolved,1.0,Website
+S00542,C0074,2025-10-20,Password reset,No,Resolved,3.0,Phone
+S00543,C0007,2026-03-22,Digital banking help,No,Pending,8.0,Website
+S00544,C0071,2026-07-31,Card issue,Yes,Resolved,2.0,Email
+S00545,C0266,2025-11-04,Digital banking help,No,Resolved,3.0,Mobile App
+S00546,C0145,2026-05-07,Digital banking help,No,Resolved,3.0,Branch
+S00547,C0191,2026-08-13,Transaction dispute,No,Resolved,4.0,Website
+S00548,C0249,2025-11-27,Account update,No,Resolved,6.0,Website
+S00549,C0211,2026-01-07,Account update,Yes,Resolved,3.0,Mobile App
+S00550,C0175,2025-11-06,Balance enquiry,No,Resolved,2.0,Mobile App
+S00551,C0084,2025-12-15,Loan enquiry,No,Resolved,3.0,Phone
+S00552,C0053,2025-12-07,Card issue,No,Resolved,5.0,Branch
+S00553,C0112,2025-11-11,Balance enquiry,No,Resolved,4.0,Branch
+S00554,C0080,2026-08-19,Card issue,No,Resolved,1.0,Email
+S00555,C0258,2026-03-31,Card issue,No,Escalated,6.0,Mobile App
+S00556,C0114,2026-03-28,Card issue,No,Resolved,3.0,Phone
+S00557,C0097,2026-06-25,Account update,Yes,Resolved,4.0,Email
+S00558,C0287,2025-10-18,Balance enquiry,No,Resolved,4.0,Website
+S00559,C0270,2026-05-28,Digital banking help,No,Resolved,2.0,Phone
+S00560,C0273,2026-08-20,Digital banking help,No,Pending,5.0,Phone
+S00561,C0283,2026-04-11,Card issue,No,Resolved,0.0,Website
+S00562,C0059,2026-05-16,Balance enquiry,No,Resolved,1.0,Website
+S00563,C0214,2025-12-25,Digital banking help,No,Resolved,1.0,Website
+S00564,C0236,2025-10-16,Digital banking help,Yes,Resolved,5.0,Mobile App
+S00565,C0040,2026-08-17,Account update,Yes,Resolved,15.0,Website
+S00566,C0060,2026-05-05,Transaction dispute,No,Resolved,0.0,Phone
+S00567,C0068,2025-12-21,Loan enquiry,Yes,Escalated,4.0,Phone
+S00568,C0009,2025-12-24,Loan enquiry,No,Resolved,1.0,Mobile App
+S00569,C0246,2026-08-25,Loan enquiry,Yes,Escalated,5.0,Branch
+S00570,C0179,2025-10-27,Account update,No,Pending,8.0,Mobile App
+S00571,C0160,2025-10-03,Account update,No,Resolved,1.0,Phone
+S00572,C0186,2026-07-09,Loan enquiry,Yes,Pending,7.0,Mobile App
+S00573,C0072,2026-03-22,Card issue,No,Resolved,0.0,Branch
+S00574,C0227,2026-09-15,Transaction dispute,No,Resolved,2.0,Phone
+S00575,C0268,2025-11-05,Account update,No,Resolved,4.0,Branch
+S00576,C0176,2026-08-03,Transaction dispute,No,Resolved,3.0,Mobile App
+S00577,C0089,2025-10-02,Balance enquiry,No,Resolved,3.0,Mobile App
+S00578,C0156,2026-02-27,Digital banking help,No,Pending,6.0,Branch
+S00579,C0015,2025-12-22,Digital banking help,No,Pending,10.0,Mobile App
+S00580,C0061,2025-11-29,Digital banking help,No,Pending,7.0,Mobile App
+S00581,C0114,2026-05-25,Card issue,Yes,Resolved,1.0,Phone
+S00582,C0066,2026-04-04,Digital banking help,No,Resolved,4.0,Mobile App
+S00583,C0073,2025-10-01,Loan enquiry,No,Pending,9.0,Branch
+S00584,C0117,2026-05-21,Digital banking help,No,Resolved,5.0,Branch
+S00585,C0158,2026-03-04,Card issue,No,Resolved,1.0,Website
+S00586,C0065,2025-12-19,Card issue,No,Resolved,1.0,Mobile App
+S00587,C0108,2026-02-12,Card issue,No,Resolved,7.0,Email
+S00588,C0067,2026-09-17,Card issue,No,Resolved,3.0,Phone
+S00589,C0041,2025-12-31,Transaction dispute,Yes,Resolved,8.0,Branch
+S00590,C0218,2026-09-27,Account update,No,Resolved,8.0,Mobile App
+S00591,C0058,2026-09-25,Password reset,No,Resolved,1.0,Phone
+S00592,C0040,2026-06-22,Digital banking help,No,Pending,5.0,Email
+S00593,C0010,2026-04-16,Balance enquiry,No,Resolved,2.0,Mobile App
+S00594,C0248,2026-09-07,Balance enquiry,Yes,Resolved,2.0,Website
+S00595,C0221,2026-09-22,Transaction dispute,Yes,Resolved,2.0,Phone
+S00596,C0022,2025-12-15,Balance enquiry,No,Resolved,2.0,Website
+S00597,C0101,2026-05-06,Password reset,No,Resolved,6.0,Website
+S00598,C0056,2026-02-07,Account update,Yes,Resolved,6.0,Mobile App
+S00599,C0017,2026-01-09,Loan enquiry,Yes,Resolved,1.0,Website
+S00600,C0263,2026-03-30,Card issue,Yes,Resolved,1.0,Phone
+S00601,C0031,2026-08-07,Password reset,No,Resolved,1.0,Branch
+S00602,C0241,2026-03-04,Account update,Yes,Resolved,5.0,Mobile App
+S00603,C0061,2026-03-11,Balance enquiry,Yes,Resolved,3.0,Email
+S00604,C0130,2026-04-29,Account update,No,Resolved,7.0,Branch
+S00605,C0023,2026-09-22,Password reset,Yes,Resolved,3.0,Phone
+S00606,C0034,2026-06-06,Account update,No,Escalated,7.0,Website
+S00607,C0155,2026-06-12,Password reset,No,Resolved,1.0,Website
+S00608,C0006,2026-08-29,Balance enquiry,No,Resolved,0.0,Phone
+S00609,C0050,2026-08-22,Balance enquiry,Yes,Resolved,0.0,Mobile App
+S00610,C0064,2025-12-07,Balance enquiry,No,Resolved,0.0,Website
+S00611,C0106,2026-05-16,Digital banking help,No,Escalated,9.0,Email
+S00612,C0103,2026-09-08,Transaction dispute,Yes,Pending,3.0,Email
+S00613,C0095,2025-10-07,Card issue,No,Resolved,3.0,Phone
+S00614,C0180,2026-09-02,Balance enquiry,No,Resolved,2.0,Branch
+S00615,C0015,2025-11-14,Transaction dispute,No,Resolved,2.0,Mobile App
+S00616,C0047,2026-07-19,Digital banking help,No,Resolved,1.0,Mobile App
+S00617,C0075,2026-03-17,Digital banking help,No,Resolved,1.0,Mobile App
+S00618,C0143,2026-03-19,Transaction dispute,No,Resolved,3.0,Phone
+S00619,C0297,2025-12-09,Password reset,Yes,Resolved,3.0,Branch
+S00620,C0179,2026-04-27,Digital banking help,No,Pending,3.0,Phone
+S00621,C0181,2026-04-06,Balance enquiry,Yes,Resolved,2.0,Mobile App
+S00622,C0083,2026-08-31,Transaction dispute,No,Resolved,5.0,Website
+S00623,C0257,2026-09-15,Digital banking help,Yes,Resolved,3.0,Mobile App
+S00624,C0124,2026-07-11,Account update,Yes,Resolved,2.0,Email
+S00625,C0259,2026-07-29,Account update,No,Resolved,7.0,Phone
+S00626,C0292,2026-02-08,Transaction dispute,No,Resolved,2.0,Branch
+S00627,C0035,2026-03-13,Digital banking help,No,Resolved,6.0,Phone
+S00628,C0051,2026-09-11,Password reset,No,Resolved,2.0,Phone
+S00629,C0297,2026-06-20,Balance enquiry,No,Resolved,1.0,Mobile App
+S00630,C0008,2026-04-01,Card issue,No,Resolved,3.0,Email
+S00631,C0271,2026-05-27,Password reset,Yes,Escalated,13.0,Website
+S00632,C0112,2025-11-07,Account update,No,Pending,8.0,Branch
+S00633,C0099,2026-02-10,Card issue,No,Resolved,0.0,Phone
+S00634,C0145,2025-10-31,Card issue,No,Resolved,3.0,Website
+S00635,C0088,2026-01-29,Balance enquiry,No,Resolved,1.0,Website
+S00636,C0276,2025-10-19,Balance enquiry,No,Resolved,0.0,Website
+S00637,C0003,2025-10-22,Card issue,Yes,Pending,9.0,Mobile App
+S00638,C0051,2026-03-01,Transaction dispute,No,Resolved,1.0,Website
+S00639,C0110,2026-07-26,Card issue,No,Pending,9.0,Mobile App
+S00640,C0259,2026-07-06,Transaction dispute,No,Resolved,0.0,Mobile App
+S00641,C0244,2026-09-23,Account update,No,Resolved,3.0,Branch
+S00642,C0188,2026-09-17,Password reset,No,Escalated,6.0,Mobile App
+S00643,C0095,2026-07-01,Card issue,No,Resolved,0.0,Website
+S00644,C0226,2026-04-01,Password reset,No,Pending,7.0,Mobile App
+S00645,C0055,2026-09-27,Digital banking help,No,Resolved,3.0,Email
+S00646,C0093,2026-09-29,Card issue,No,Pending,10.0,Website
+S00647,C0182,2026-06-12,Password reset,No,Resolved,1.0,Phone
+S00648,C0195,2026-08-06,Balance enquiry,Yes,Resolved,1.0,Phone
+S00649,C0218,2025-10-15,Account update,No,Pending,6.0,Branch
+S00650,C0110,2026-04-25,Balance enquiry,No,Escalated,10.0,Email
+S00651,C0264,2026-02-26,Balance enquiry,No,Resolved,3.0,Mobile App
+S00652,C0117,2026-05-11,Card issue,No,Resolved,4.0,Branch
+S00653,C0209,2026-07-22,Password reset,No,Pending,10.0,Phone
+S00654,C0058,2026-02-17,Digital banking help,No,Resolved,2.0,Phone
+S00655,C0161,2026-03-20,Digital banking help,No,Resolved,2.0,Website
+S00656,C0064,2026-05-10,Digital banking help,No,Resolved,6.0,Phone
+S00657,C0239,2026-09-27,Loan enquiry,No,Pending,8.0,Mobile App
+S00658,C0057,2025-12-15,Loan enquiry,No,Resolved,4.0,Branch
+S00659,C0267,2025-11-07,Password reset,No,Resolved,3.0,Mobile App
+S00660,C0070,2025-10-23,Card issue,Yes,Resolved,3.0,Mobile App
+S00661,C0254,2025-12-22,Transaction dispute,No,Resolved,1.0,Branch
+S00662,C0185,2026-02-22,Password reset,No,Resolved,0.0,Email
+S00663,C0148,2026-05-10,Balance enquiry,No,Resolved,4.0,Website
+S00664,C0286,2026-08-20,Account update,No,Pending,6.0,Website
+S00665,C0021,2026-07-30,Password reset,Yes,Resolved,4.0,Mobile App
+S00666,C0043,2025-12-21,Balance enquiry,Yes,Resolved,2.0,Phone
+S00667,C0168,2026-07-03,Loan enquiry,No,Resolved,0.0,Branch
+S00668,C0253,2025-10-01,Password reset,No,Resolved,2.0,Website
+S00669,C0060,2026-04-02,Transaction dispute,No,Resolved,3.0,Website
+S00670,C0198,2026-08-13,Account update,No,Resolved,0.0,Phone
+S00671,C0146,2025-12-29,Balance enquiry,Yes,Resolved,3.0,Branch
+S00672,C0234,2026-06-10,Transaction dispute,Yes,Escalated,8.0,Website
+S00673,C0160,2026-03-21,Transaction dispute,No,Resolved,2.0,Mobile App
+S00674,C0228,2026-05-22,Password reset,No,Escalated,6.0,Branch
+S00675,C0116,2025-12-16,Card issue,Yes,Resolved,1.0,Website
+S00676,C0284,2026-03-23,Digital banking help,Yes,Resolved,6.0,Mobile App
+S00677,C0209,2026-03-22,Digital banking help,Yes,Resolved,3.0,Mobile App
+S00678,C0149,2026-07-19,Loan enquiry,No,Resolved,4.0,Branch
+S00679,C0220,2025-11-07,Loan enquiry,No,Resolved,0.0,Mobile App
+S00680,C0097,2025-11-18,Password reset,Yes,Resolved,1.0,Mobile App
+S00681,C0036,2026-09-24,Balance enquiry,No,Pending,4.0,Branch
+S00682,C0244,2026-03-04,Card issue,Yes,Pending,6.0,Website
+S00683,C0189,2026-07-19,Balance enquiry,No,Resolved,3.0,Phone
+S00684,C0092,2025-10-14,Transaction dispute,No,Pending,2.0,Email
+S00685,C0007,2026-09-26,Digital banking help,Yes,Resolved,3.0,Website
+S00686,C0252,2025-11-18,Balance enquiry,No,Pending,6.0,Branch
+S00687,C0054,2025-11-21,Loan enquiry,No,Resolved,1.0,Website
+S00688,C0203,2026-08-03,Card issue,No,Escalated,9.0,Branch
+S00689,C0225,2026-07-06,Balance enquiry,No,Resolved,4.0,Mobile App
+S00690,C0268,2026-05-28,Digital banking help,No,Resolved,0.0,Branch
+S00691,C0044,2025-12-24,Balance enquiry,No,Resolved,1.0,Mobile App
+S00692,C0062,2026-08-25,Password reset,No,Resolved,1.0,Phone
+S00693,C0074,2025-11-19,Password reset,No,Resolved,4.0,Phone
+S00694,C0203,2025-11-18,Account update,No,Pending,8.0,Mobile App
+S00695,C0206,2025-11-24,Transaction dispute,Yes,Resolved,0.0,Branch
+S00696,C0053,2026-07-21,Digital banking help,No,Resolved,3.0,Mobile App
+S00697,C0087,2026-09-30,Digital banking help,No,Resolved,2.0,Mobile App
+S00698,C0034,2026-06-26,Digital banking help,No,Resolved,4.0,Branch
+S00699,C0187,2026-06-28,Digital banking help,No,Resolved,5.0,Email
+S00700,C0102,2026-07-23,Balance enquiry,Yes,Escalated,1.0,Phone
+S00701,C0174,2026-05-11,Balance enquiry,Unknown,Resolved,6.0,Phone
+S00702,C0103,2026-03-22,Account update,No,Resolved,5.0,Branch
+S00703,C0207,2026-09-30,Loan enquiry,No,Resolved,1.0,Email
+S00704,C0063,2025-11-15,Account update,No,Pending,8.0,Mobile App
+S00705,C0120,2026-02-19,Balance enquiry,No,Resolved,3.0,Mobile App
+S00706,C0218,2026-06-09,Card issue,No,Resolved,3.0,Branch
+S00707,C0256,2026-05-26,Password reset,No,Pending,9.0,Website
+S00708,C0143,2025-12-27,Transaction dispute,No,Resolved,1.0,Phone
+S00709,C0298,2025-12-04,Digital banking help,Yes,Pending,4.0,Website
+S00710,C0140,2025-10-01,Balance enquiry,No,Resolved,1.0,Mobile App
+S00711,C0205,2026-04-17,Password reset,Yes,Resolved,4.0,Branch
+S00712,C0183,2026-07-28,Loan enquiry,No,Resolved,3.0,Email
+S00713,C0244,2026-01-15,Balance enquiry,No,Resolved,1.0,Email
+S00714,C0208,2026-01-24,Account update,No,Resolved,12.0,Website
+S00715,C0249,2025-10-09,Transaction dispute,No,Resolved,1.0,Mobile App
+S00716,C0262,2026-01-17,Transaction dispute,No,Resolved,0.0,Email
+S00717,C0143,2026-04-06,Digital banking help,No,Pending,8.0,Mobile App
+S00718,C0076,2026-08-05,Transaction dispute,No,Pending,11.0,Email
+S00719,C0233,2025-12-04,Digital banking help,Yes,Pending,6.0,Branch
+S00720,C0056,2026-02-17,Digital banking help,Yes,Escalated,8.0,Mobile App
+S00721,C0063,2025-11-25,Balance enquiry,No,Resolved,1.0,Mobile App
+S00722,C0129,2026-08-14,Transaction dispute,No,Resolved,0.0,Branch
+S00723,C0251,2026-03-18,Card issue,Yes,Pending,3.0,Phone
+S00724,C0255,2025-10-13,Balance enquiry,Yes,Pending,3.0,Branch
+S00725,C0119,2026-06-16,Transaction dispute,No,Resolved,5.0,Phone
+S00726,C0069,2025-11-30,Balance enquiry,Yes,Escalated,5.0,Mobile App
+S00727,C0016,2026-01-20,Loan enquiry,No,Resolved,0.0,Email
+S00728,C0051,2026-07-05,Transaction dispute,No,Resolved,3.0,Email
+S00729,C0028,2026-03-18,Card issue,No,Resolved,1.0,Branch
+S00730,C0035,2026-06-24,Balance enquiry,No,Pending,4.0,Mobile App
+S00731,C0256,2025-12-03,Card issue,No,Escalated,3.0,Mobile App
+S00732,C0014,2025-12-08,Account update,No,Pending,6.0,Phone
+S00733,C0092,2026-02-14,Balance enquiry,No,Resolved,2.0,Mobile App
+S00734,C0196,2026-01-08,Loan enquiry,No,Resolved,2.0,Branch
+S00735,C0168,2025-12-05,Loan enquiry,Yes,Resolved,1.0,Branch
+S00736,C0079,2025-11-04,Card issue,Yes,Escalated,2.0,Website
+S00737,C0156,2025-12-25,Balance enquiry,No,Resolved,7.0,Mobile App
+S00738,C0050,2025-10-09,Transaction dispute,No,Resolved,1.0,Branch
+S00739,C0040,2026-07-28,Digital banking help,No,Resolved,1.0,Branch
+S00740,C0267,2026-05-29,Transaction dispute,No,Resolved,4.0,Phone
+S00741,C0253,2025-12-11,Balance enquiry,No,Resolved,8.0,Phone
+S00742,C0239,2026-03-18,Digital banking help,No,Resolved,2.0,Phone
+S00743,C0104,2025-10-28,Digital banking help,No,Resolved,0.0,Website
+S00744,C0151,2026-06-28,Digital banking help,No,Resolved,2.0,Branch
+S00745,C0255,2026-03-09,Transaction dispute,No,Resolved,3.0,Branch
+S00746,C0252,2026-08-06,Digital banking help,No,Pending,7.0,Mobile App
+S00747,C0259,2026-08-08,Balance enquiry,Yes,Resolved,1.0,Phone
+S00748,C0134,2026-08-23,Password reset,No,Resolved,4.0,Mobile App
+S00749,C0278,2026-02-25,Balance enquiry,No,Resolved,2.0,Mobile App
+S00750,C0176,2025-10-10,Password reset,No,Resolved,3.0,Branch
+S00751,C0277,2026-06-10,Password reset,Yes,Pending,7.0,Website
+S00752,C0280,2026-02-11,Card issue,Yes,Resolved,1.0,Website
+S00753,C0010,2026-01-02,Balance enquiry,No,Resolved,1.0,Mobile App
+S00754,C0017,2026-03-23,Balance enquiry,Yes,Resolved,4.0,Website
+S00755,C0221,2026-03-24,Balance enquiry,Yes,Resolved,6.0,Mobile App
+S00756,C0061,2026-02-26,Balance enquiry,Yes,Resolved,1.0,Email
+S00757,C0197,2026-03-18,Loan enquiry,No,Pending,7.0,Branch
+S00758,C0231,2026-04-27,Card issue,No,Resolved,1.0,Website
+S00759,C0162,2025-11-02,Account update,Yes,Resolved,4.0,Branch
+S00760,C0193,2025-12-10,Card issue,No,Pending,6.0,Mobile App
+S00761,C0227,2026-07-04,Password reset,No,Resolved,0.0,Branch
+S00762,C0236,2026-04-30,Loan enquiry,No,Resolved,3.0,Mobile App
+S00763,C0019,2026-01-06,Balance enquiry,No,Resolved,2.0,Phone
+S00764,C0017,2026-09-22,Digital banking help,Yes,Resolved,3.0,Mobile App
+S00765,C0091,2026-07-30,Digital banking help,No,Resolved,4.0,Mobile App
+S00766,C0286,2026-05-05,Loan enquiry,Yes,Resolved,2.0,Website
+S00767,C0156,2025-12-16,Password reset,Yes,Resolved,4.0,Branch
+S00768,C0085,2026-06-01,Digital banking help,Yes,Resolved,3.0,Phone
+S00769,C0252,2026-05-20,Loan enquiry,No,Resolved,2.0,Phone
+S00770,C0221,2026-01-07,Transaction dispute,Yes,Resolved,3.0,Branch
+S00771,C0069,2026-03-14,Password reset,No,Escalated,5.0,Mobile App
+S00772,C0160,2026-04-11,Digital banking help,No,Resolved,7.0,Phone
+S00773,C0200,2026-05-11,Balance enquiry,No,Escalated,5.0,Branch
+S00774,C0250,2026-02-14,Balance enquiry,No,Resolved,1.0,Phone
+S00775,C0057,2026-09-30,Account update,Yes,Pending,6.0,Mobile App
+S00776,C0292,2026-08-20,Balance enquiry,No,Pending,8.0,Website
+S00777,C0252,2026-07-29,Password reset,No,Resolved,7.0,Phone
+S00778,C0284,2025-11-22,Balance enquiry,No,Resolved,0.0,Branch
+S00779,C0277,2026-03-03,Loan enquiry,Yes,Resolved,1.0,Branch
+S00780,C0293,2026-03-05,Account update,Yes,Resolved,4.0,Website
+S00781,C0241,2026-07-07,Digital banking help,Yes,Resolved,2.0,Mobile App
+S00782,C0244,2026-04-27,Card issue,No,Escalated,4.0,Email
+S00783,C0288,2026-06-09,Digital banking help,No,Resolved,4.0,Website
+S00784,C0081,2026-06-20,Transaction dispute,Yes,Escalated,3.0,Branch
+S00785,C0260,2026-08-11,Transaction dispute,No,Resolved,0.0,Mobile App
+S00786,C0029,2026-01-07,Password reset,Yes,Resolved,1.0,Email
+S00787,C0201,2025-11-24,Balance enquiry,No,Resolved,2.0,Website
+S00788,C0135,2026-04-01,Password reset,No,Resolved,1.0,Branch
+S00789,C0254,2025-10-26,Transaction dispute,Yes,Resolved,1.0,Email
+S00790,C0194,2025-10-06,Transaction dispute,Yes,Resolved,0.0,Branch
+S00791,C0181,2025-12-10,Digital banking help,No,Pending,8.0,Phone
+S00792,C0146,2026-05-25,Digital banking help,No,Resolved,3.0,Mobile App
+S00793,C0165,2026-06-24,Balance enquiry,No,Escalated,10.0,Branch
+S00794,C0032,2026-08-04,Transaction dispute,No,Pending,7.0,Website
+S00795,C0015,2026-08-01,Loan enquiry,No,Resolved,2.0,Phone
+S00796,C0024,2025-10-12,Loan enquiry,No,Resolved,7.0,Mobile App
+S00797,C0066,2026-03-14,Account update,No,Resolved,2.0,Website
+S00798,C0188,2025-11-06,Card issue,No,Resolved,2.0,Mobile App
+S00799,C0179,2026-02-24,Transaction dispute,Yes,Resolved,4.0,Mobile App
+S00800,C0299,2026-07-23,Card issue,No,Resolved,2.0,Email
+S00801,C0014,2026-05-28,Balance enquiry,No,Resolved,0.0,Branch
+S00802,C0175,2025-11-19,Account update,Yes,Resolved,1.0,Phone
+S00803,C0195,2026-06-27,Digital banking help,No,Resolved,3.0,Phone
+S00804,C0050,2025-12-24,Loan enquiry,No,Resolved,0.0,Branch
+S00805,C0220,2025-12-31,Balance enquiry,No,Pending,10.0,Phone
+S00806,C0177,2026-04-25,Password reset,No,Resolved,3.0,Email
+S00807,C0183,2026-09-12,Card issue,No,Resolved,2.0,Phone
+S00808,C0211,2026-06-08,Balance enquiry,No,Pending,3.0,Website
+S00809,C0180,2026-05-24,Balance enquiry,No,Resolved,0.0,Branch
+S00810,C0029,2026-08-10,Password reset,No,Pending,4.0,Branch
+S00811,C0126,2026-06-05,Card issue,No,Resolved,1.0,Email
+S00812,C0127,2025-12-14,Account update,No,Resolved,0.0,Mobile App
+S00813,C0121,2025-10-06,Card issue,Yes,Resolved,2.0,Email
+S00814,C0160,2026-04-13,Card issue,No,Resolved,3.0,Branch
+S00815,C0044,2026-03-31,Loan enquiry,Yes,Resolved,1.0,Phone
+S00816,C0034,2026-09-09,Digital banking help,No,Resolved,2.0,Mobile App
+S00817,C0157,2025-12-08,Account update,Yes,Resolved,0.0,Phone
+S00818,C0059,2026-01-03,Digital banking help,No,Resolved,2.0,Website
+S00819,C0173,2026-03-18,Balance enquiry,No,Resolved,3.0,Branch
+S00820,C0087,2026-09-25,Loan enquiry,Yes,Escalated,3.0,Phone
+S00821,C0011,2025-12-29,Account update,Yes,Resolved,4.0,Mobile App
+S00822,C0276,2026-07-20,Digital banking help,No,Resolved,3.0,Phone
+S00823,C0167,2025-10-25,Password reset,No,Resolved,2.0,Website
+S00824,C0020,2026-06-13,Password reset,Yes,Resolved,3.0,Website
+S00825,C0236,2026-08-06,Card issue,No,Pending,6.0,Email
+S00826,C0217,2026-08-21,Password reset,No,Resolved,7.0,Phone
+S00827,C0291,2026-03-21,Card issue,No,Resolved,1.0,Email
+S00828,C0264,2026-07-20,Card issue,Yes,Resolved,11.0,Mobile App
+S00829,C0216,2026-06-13,Digital banking help,Yes,Resolved,0.0,Mobile App
+S00830,C0137,2025-10-07,Transaction dispute,No,Resolved,3.0,Mobile App
+S00831,C0011,2026-08-12,Transaction dispute,Yes,Resolved,7.0,Branch
+S00832,C0241,2026-05-30,Digital banking help,No,Pending,4.0,Branch
+S00833,C0012,2026-03-15,Account update,Yes,Resolved,3.0,Website
+S00834,C0163,2026-03-31,Loan enquiry,No,Resolved,2.0,Mobile App
+S00835,C0194,2026-08-06,Card issue,No,Resolved,3.0,Mobile App
+S00836,C0293,2026-02-28,Balance enquiry,Yes,Pending,6.0,Website
+S00837,C0200,2025-10-01,Loan enquiry,No,Resolved,0.0,Email
+S00838,C0166,2026-09-20,Digital banking help,No,Resolved,0.0,Email
+S00839,C0294,2026-09-24,Digital banking help,No,Resolved,4.0,Mobile App
+S00840,C0051,2026-09-06,Digital banking help,Yes,Resolved,1.0,Email
+S00841,C0251,2026-06-26,Card issue,Yes,Pending,10.0,Email
+S00842,C0052,2026-08-19,Digital banking help,Yes,Resolved,2.0,Branch
+S00843,C0106,2026-08-10,Password reset,No,Escalated,4.0,Website
+S00844,C0173,2026-07-18,Password reset,No,Resolved,2.0,Email
+S00845,C0255,2026-04-08,Password reset,No,Pending,5.0,Email
+S00846,C0258,2026-06-18,Card issue,No,Resolved,0.0,Mobile App
+S00847,C0174,2026-07-13,Transaction dispute,No,Escalated,2.0,Phone
+S00848,C0086,2026-02-05,Password reset,No,Resolved,2.0,Phone
+S00849,C0154,2026-08-17,Loan enquiry,No,Resolved,2.0,Phone
+S00850,C0187,2026-01-13,Password reset,No,Resolved,1.0,Phone
+S00851,C0224,2025-10-12,Card issue,No,Pending,9.0,Branch
+S00852,C0104,2026-06-22,Digital banking help,No,Resolved,6.0,Branch
+S00853,C0255,2026-02-18,Card issue,Yes,Resolved,3.0,Website
+S00854,C0039,2026-08-28,Transaction dispute,No,Resolved,1.0,Email
+S00855,C0275,2026-03-23,Balance enquiry,No,Pending,14.0,Mobile App
+S00856,C0110,2026-01-02,Transaction dispute,No,Resolved,3.0,Email
+S00857,C0148,2025-11-30,Account update,Yes,Resolved,0.0,Email
+S00858,C0136,2025-11-22,Transaction dispute,Yes,Escalated,7.0,Mobile App
+S00859,C0025,2026-01-14,Digital banking help,No,Resolved,3.0,Phone
+S00860,C0153,2026-07-31,Digital banking help,No,Resolved,3.0,Mobile App
+S00861,C0294,2026-05-26,Account update,No,Pending,8.0,Mobile App
+S00862,C0206,2026-07-08,Digital banking help,No,Pending,10.0,Branch
+S00863,C0116,2026-03-28,Balance enquiry,No,Resolved,8.0,Phone
+S00864,C0048,2026-07-15,Loan enquiry,No,Resolved,4.0,Phone
+S00865,C0297,2026-01-25,Digital banking help,No,Resolved,4.0,Branch
+S00866,C0049,2026-03-25,Card issue,No,Resolved,3.0,Mobile App
+S00867,C0173,2026-07-18,Digital banking help,No,Pending,6.0,Website
+S00868,C0140,2026-08-04,Balance enquiry,No,Pending,8.0,Phone
+S00869,C0035,2026-09-23,Balance enquiry,No,Resolved,2.0,Phone
+S00870,C0291,2026-05-19,Digital banking help,No,Resolved,4.0,Phone
+S00871,C0272,2025-10-27,Transaction dispute,No,Resolved,1.0,Phone
+S00872,C0244,2025-11-27,Account update,No,Resolved,0.0,Email
+S00873,C0219,2025-11-07,Card issue,No,Escalated,11.0,Mobile App
+S00874,C0108,2026-07-13,Digital banking help,Yes,Resolved,2.0,Email
+S00875,C0178,2026-01-07,Loan enquiry,Yes,Resolved,2.0,Phone
+S00876,C0040,2025-10-29,Digital banking help,No,Resolved,1.0,Phone
+S00877,C0155,2026-03-20,Balance enquiry,No,Resolved,4.0,Mobile App
+S00878,C0259,2026-01-28,Transaction dispute,Yes,Resolved,3.0,Mobile App
+S00879,C0154,2026-09-09,Balance enquiry,No,Resolved,4.0,Email
+S00880,C0222,2026-08-17,Card issue,No,Resolved,2.0,Website
+S00881,C0277,2026-08-26,Balance enquiry,Yes,Resolved,2.0,Phone
+S00882,C0161,2025-11-10,Password reset,No,Resolved,3.0,Phone
+S00883,C0103,2026-06-25,Transaction dispute,No,Escalated,7.0,Mobile App
+S00884,C0213,2026-05-25,Card issue,No,Resolved,2.0,Mobile App
+S00885,C0206,2026-07-06,Balance enquiry,No,Resolved,4.0,Email
+S00886,C0129,2026-09-21,Card issue,Yes,Resolved,2.0,Website
+S00887,C0264,2026-08-29,Account update,No,Resolved,2.0,Email
+S00888,C0233,2026-07-11,Loan enquiry,No,Resolved,1.0,Branch
+S00889,C0281,2026-09-11,Account update,No,Resolved,4.0,Website
+S00890,C0093,2026-06-26,Card issue,Yes,Resolved,0.0,Mobile App
+S00891,C0010,2025-11-13,Card issue,Yes,Pending,8.0,Website
+S00892,C0265,2026-03-31,Balance enquiry,No,Resolved,4.0,Branch
+S00893,C0096,2025-11-30,Password reset,Yes,Resolved,4.0,Mobile App
+S00894,C0296,2026-02-15,Transaction dispute,Yes,Resolved,1.0,Email
+S00895,C0256,2026-07-27,Balance enquiry,No,Pending,3.0,Phone
+S00896,C0110,2025-12-06,Balance enquiry,Yes,Resolved,5.0,Email
+S00897,C0240,2026-01-21,Transaction dispute,Yes,Resolved,2.0,Phone
+S00898,C0138,2026-04-23,Digital banking help,Yes,Resolved,0.0,Mobile App
+S00899,C0273,2026-04-30,Balance enquiry,Yes,Resolved,0.0,Mobile App
+S00900,C0223,2026-03-05,Account update,No,Resolved,1.0,Phone
+S00901,C0290,2026-09-17,Digital banking help,No,Resolved,2.0,Phone
+S00902,C0031,2026-07-18,Balance enquiry,No,Resolved,2.0,Branch
+S00903,C0268,2026-04-30,Card issue,No,Resolved,1.0,Email
+S00904,C0103,2026-09-03,Card issue,No,Resolved,3.0,Phone
+S00905,C0187,2026-06-14,Loan enquiry,No,Escalated,2.0,Mobile App
+S00906,C0237,2025-10-27,Password reset,No,Resolved,7.0,Mobile App
+S00907,C0076,2026-03-26,Card issue,No,Resolved,4.0,Phone
+S00908,C0124,2026-02-13,Loan enquiry,No,Resolved,5.0,Phone
+S00909,C0078,2026-06-10,Balance enquiry,No,Resolved,2.0,Mobile App
+S00910,C0154,2026-05-02,Card issue,Yes,Pending,7.0,Website
+S00911,C0223,2026-05-28,Transaction dispute,No,Resolved,4.0,Website
+S00912,C0211,2025-11-11,Digital banking help,No,Resolved,4.0,Email
+S00913,C0164,2026-01-31,Password reset,Yes,Resolved,0.0,Mobile App
+S00914,C0033,2026-08-03,Loan enquiry,No,Resolved,5.0,Branch
+S00915,C0105,2026-04-01,Digital banking help,Yes,Resolved,0.0,Email
+S00916,C0212,2025-12-20,Digital banking help,No,Escalated,9.0,Mobile App
+S00917,C0137,2026-02-17,Transaction dispute,No,Resolved,3.0,Phone
+S00918,C0147,2025-11-25,Password reset,Yes,Resolved,9.0,Mobile App
+S00919,C0083,2026-03-15,Transaction dispute,No,Resolved,3.0,Mobile App
+S00920,C0132,2025-11-03,Transaction dispute,Yes,Resolved,1.0,Mobile App
+S00921,C0121,2026-07-29,Balance enquiry,No,Resolved,0.0,Branch
+S00922,C0208,2025-11-01,Account update,No,Resolved,2.0,Email
+S00923,C0123,2026-02-26,Password reset,No,Pending,5.0,Phone
+S00924,C0059,2025-10-01,Transaction dispute,No,Resolved,1.0,Website
+S00925,C0077,2026-02-12,Card issue,Yes,Pending,4.0,Mobile App
+S00926,C0099,2026-02-02,Balance enquiry,No,Resolved,2.0,Phone
+S00927,C0015,2025-10-17,Digital banking help,No,Resolved,3.0,Website
+S00928,C0126,2026-09-10,Digital banking help,No,Resolved,2.0,Mobile App
+S00929,C0159,2026-02-24,Password reset,No,Resolved,5.0,Website
+S00930,C0238,2026-09-23,Loan enquiry,No,Pending,1.0,Website
+S00931,C0249,2026-05-03,Password reset,No,Resolved,1.0,Mobile App
+S00932,C0287,2025-12-14,Transaction dispute,No,Resolved,2.0,Branch
+S00933,C0224,2026-07-14,Balance enquiry,No,Resolved,3.0,Mobile App
+S00934,C0217,2026-03-30,Loan enquiry,No,Escalated,4.0,Mobile App
+S00935,C0019,2026-09-15,Balance enquiry,No,Resolved,0.0,Phone
+S00936,C0104,2026-06-05,Card issue,Yes,Resolved,2.0,Mobile App
+S00937,C0082,2026-07-02,Balance enquiry,Yes,Pending,11.0,Mobile App
+S00938,C0140,2026-01-18,Balance enquiry,No,Resolved,5.0,Mobile App
+S00939,C0070,2026-02-09,Balance enquiry,No,Pending,8.0,Branch
+S00940,C0015,2025-12-19,Password reset,No,Escalated,6.0,Branch
+S00941,C0133,2025-10-17,Password reset,No,Resolved,2.0,Email
+S00942,C0143,2026-08-10,Digital banking help,No,Pending,8.0,Phone
+S00943,C0282,2026-04-21,Loan enquiry,No,Resolved,2.0,Phone
+S00944,C0091,2026-07-11,Transaction dispute,No,Resolved,3.0,Website
+S00945,C0022,2026-08-21,Card issue,No,Escalated,2.0,Mobile App
+S00946,C0249,2026-01-06,Transaction dispute,Yes,Resolved,2.0,Email
+S00947,C0011,2025-11-26,Balance enquiry,No,Pending,7.0,Branch
+S00948,C0029,2026-07-21,Loan enquiry,Yes,Resolved,4.0,Phone
+S00949,C0043,2026-06-29,Transaction dispute,Yes,Resolved,4.0,Mobile App
+S00950,C0161,2026-09-18,Balance enquiry,Yes,Resolved,10.0,Branch
+S00951,C0153,2026-05-27,Card issue,No,Resolved,0.0,Phone
+S00952,C0033,2026-08-03,Password reset,Yes,Resolved,2.0,Branch
+S00953,C0209,2026-03-26,Password reset,Yes,Pending,10.0,Mobile App
+S00954,C0187,2026-07-07,Balance enquiry,No,Pending,8.0,Email
+S00955,C0047,2026-04-03,Digital banking help,Yes,Pending,1.0,Mobile App
+S00956,C0204,2026-03-26,Digital banking help,No,Pending,8.0,Mobile App
+S00957,C0072,2026-03-02,Digital banking help,Yes,Resolved,1.0,Email
+S00958,C0121,2026-09-09,Digital banking help,Yes,Resolved,2.0,Email
+S00959,C0058,2026-02-18,Digital banking help,Yes,Resolved,3.0,Branch
+S00960,C0293,2026-07-16,Card issue,No,Resolved,5.0,Phone
+S00961,C0257,2025-12-01,Digital banking help,No,Resolved,6.0,Website
+S00962,C0062,2026-06-18,Digital banking help,No,Resolved,4.0,Branch
+S00963,C0268,2026-02-16,Password reset,Yes,Pending,10.0,Phone
+S00964,C0298,2026-05-22,Loan enquiry,No,Resolved,0.0,Mobile App
+S00965,C0269,2026-03-13,Card issue,Yes,Resolved,4.0,Phone
+S00966,C0129,2026-01-03,Transaction dispute,No,Resolved,2.0,Mobile App
+S00967,C0255,2026-06-11,Account update,Yes,Pending,4.0,Phone
+S00968,C0047,2026-09-02,Digital banking help,Yes,Resolved,2.0,Website
+S00969,C0122,2026-01-31,Balance enquiry,No,Resolved,5.0,Phone
+S00970,C0063,2026-07-06,Card issue,Yes,Resolved,2.0,Email
+S00971,C0161,2026-04-15,Transaction dispute,No,Resolved,1.0,Phone
+S00972,C0169,2026-02-06,Account update,Yes,Resolved,1.0,Phone
+S00973,C0300,2026-01-25,Balance enquiry,No,Pending,2.0,Phone
+S00974,C0200,2026-05-25,Card issue,No,Pending,10.0,Email
+S00975,C0121,2026-07-19,Password reset,No,Resolved,5.0,Website
+S00976,C0217,2026-03-30,Digital banking help,No,Resolved,4.0,Branch
+S00977,C0112,2025-10-27,Card issue,No,Resolved,1.0,Mobile App
+S00978,C0074,2026-04-09,Digital banking help,Yes,Resolved,2.0,Mobile App
+S00979,C0055,2026-02-10,Digital banking help,No,Resolved,3.0,Branch
+S00980,C0090,2026-08-05,Card issue,No,Pending,3.0,Mobile App
+S00981,C0110,2026-02-13,Balance enquiry,No,Resolved,1.0,Email
+S00982,C0141,2026-09-01,Transaction dispute,No,Resolved,5.0,Branch
+S00983,C0226,2026-03-01,Password reset,No,Escalated,2.0,Phone
+S00984,C0210,2026-03-16,Password reset,No,Resolved,0.0,Website
+S00985,C0131,2026-04-04,Password reset,No,Resolved,4.0,Phone
+S00986,C0029,2025-11-22,Card issue,Yes,Pending,5.0,Mobile App
+S00987,C0252,2026-07-24,Loan enquiry,No,Resolved,1.0,Phone
+S00988,C0274,2026-06-24,Transaction dispute,Yes,Resolved,1.0,Website
+S00989,C0192,2026-08-01,Transaction dispute,No,Resolved,0.0,Mobile App
+S00990,C0058,2026-03-01,Digital banking help,No,Resolved,4.0,Phone
+S00991,C0163,2026-04-09,Transaction dispute,No,Pending,13.0,Mobile App
+S00992,C0280,2026-01-18,Account update,No,Pending,8.0,Phone
+S00993,C0217,2026-05-11,Digital banking help,No,Pending,9.0,Website
+S00994,C0244,2025-11-25,Digital banking help,No,Resolved,3.0,Branch
+S00995,C0127,2026-01-10,Digital banking help,Yes,Resolved,1.0,Mobile App
+S00996,C0143,2026-06-25,Digital banking help,No,Resolved,6.0,Branch
+S00997,C0075,2026-05-08,Digital banking help,No,Resolved,0.0,Website
+S00998,C0186,2026-01-17,Account update,Yes,Resolved,0.0,Website
+S00999,C0244,2026-01-29,Digital banking help,Yes,Resolved,3.0,Website
+S01000,C0189,2026-06-02,Loan enquiry,Yes,Pending,5.0,Mobile App
+S01001,C0158,2026-05-19,Digital banking help,Yes,Pending,5.0,Phone
+S01002,C0011,2026-08-03,Digital banking help,Yes,Resolved,1.0,Phone
+S01003,C0018,2026-04-17,Transaction dispute,No,Pending,6.0,Branch
+S01004,C0028,2025-12-28,Account update,No,Resolved,2.0,Email
+S01005,C0123,2026-08-08,Balance enquiry,Yes,Pending,10.0,Mobile App
+S01006,C0130,2026-06-23,Digital banking help,No,Resolved,0.0,Branch
+S01007,C0283,2026-09-13,Password reset,No,Resolved,6.0,Phone
+S01008,C0197,2025-10-28,Transaction dispute,No,Pending,9.0,Website
+S01009,C0159,2026-05-21,Account update,No,Pending,3.0,Branch
+S01010,C0186,2026-04-13,Digital banking help,Yes,Resolved,6.0,Mobile App
+S01011,C0063,2026-04-21,Card issue,Yes,Resolved,2.0,Email
+S01012,C0274,2025-12-03,Transaction dispute,No,Resolved,1.0,Website
+S01013,C0122,2026-09-22,Digital banking help,No,Resolved,4.0,Phone
+S01014,C0227,2026-07-18,Balance enquiry,Yes,Pending,4.0,Phone
+S01015,C0199,2025-12-21,Balance enquiry,No,Pending,4.0,Mobile App
+S01016,C0005,2026-02-11,Balance enquiry,No,Escalated,10.0,Mobile App
+S01017,C0202,2025-10-31,Transaction dispute,Yes,Escalated,4.0,Phone
+S01018,C0131,2026-08-30,Loan enquiry,No,Resolved,12.0,Website
+S01019,C0155,2026-02-26,Card issue,Yes,Pending,7.0,Website
+S01020,C0047,2025-10-02,Digital banking help,No,Resolved,2.0,Phone
+S01021,C0121,2025-10-07,Digital banking help,Yes,Resolved,4.0,Mobile App
+S01022,C0153,2026-01-18,Account update,No,Resolved,0.0,Phone
+S01023,C0108,2026-05-27,Transaction dispute,Yes,Resolved,3.0,Phone
+S01024,C0083,2026-06-28,Card issue,No,Escalated,3.0,Email
+S01025,C0225,2026-09-25,Card issue,No,Resolved,0.0,Mobile App
+S01026,C0163,2025-12-29,Password reset,No,Resolved,1.0,Website
+S01027,C0209,2026-05-09,Password reset,No,Resolved,4.0,Website
+S01028,C0018,2026-09-03,Password reset,No,Resolved,10.0,Website
+S01029,C0141,2026-02-08,Card issue,Yes,Pending,8.0,Mobile App
+S01030,C0042,2026-03-22,Loan enquiry,No,Pending,10.0,Email
+S01031,C0252,2026-06-08,Digital banking help,Yes,Resolved,0.0,Website
+S01032,C0242,2026-01-06,Balance enquiry,No,Resolved,4.0,Mobile App
+S01033,C0212,2025-11-13,Account update,No,Resolved,4.0,Branch
+S01034,C0171,2025-12-29,Transaction dispute,Yes,Pending,6.0,Phone
+S01035,C0217,2026-08-19,Balance enquiry,No,Resolved,2.0,Email
+S01036,C0052,2026-09-01,Balance enquiry,No,Resolved,3.0,Phone
+S01037,C0083,2026-01-15,Account update,No,Resolved,8.0,Website
+S01038,C0134,2025-12-15,Digital banking help,Yes,Resolved,4.0,Website
+S01039,C0260,2026-04-15,Balance enquiry,No,Pending,5.0,Website
+S01040,C0034,2025-10-05,Digital banking help,Yes,Resolved,0.0,Email
+S01041,C0181,2026-09-28,Account update,Yes,Resolved,4.0,Branch
+S01042,C0216,2026-07-29,Balance enquiry,Yes,Escalated,6.0,Email
+S01043,C0281,2026-05-03,Digital banking help,No,Resolved,2.0,Mobile App
+S01044,C0168,2026-03-14,Card issue,No,Resolved,6.0,Website
+S01045,C0233,2026-05-13,Digital banking help,No,Resolved,4.0,Branch
+S01046,C0015,2026-09-25,Password reset,Yes,Resolved,1.0,Email
+S01047,C0027,2026-06-15,Balance enquiry,Yes,Resolved,3.0,Phone
+S01048,C0095,2026-02-15,Account update,No,Pending,7.0,Website
+S01049,C0228,2026-09-30,Balance enquiry,No,Resolved,0.0,Email
+S01050,C0070,2026-01-07,Digital banking help,No,Resolved,2.0,Mobile App
+S01051,C0002,2025-10-05,Transaction dispute,No,Resolved,2.0,Mobile App
+S01052,C0206,2026-03-22,Transaction dispute,No,Resolved,1.0,Mobile App
+S01053,C0103,2026-07-09,Card issue,No,Resolved,1.0,Email
+S01054,C0157,2026-05-10,Password reset,Yes,Resolved,5.0,Phone
+S01055,C0161,2026-08-22,Card issue,No,Resolved,1.0,Branch
+S01056,C0295,2025-10-24,Balance enquiry,No,Resolved,1.0,Email
+S01057,C0043,2025-12-19,Card issue,Yes,Resolved,2.0,Phone
+S01058,C0057,2026-08-10,Digital banking help,No,Pending,7.0,Branch
+S01059,C0081,2026-01-16,Balance enquiry,Yes,Escalated,7.0,Phone
+S01060,C0128,2026-02-04,Digital banking help,Yes,Pending,8.0,Website
+S01061,C0265,2025-11-18,Digital banking help,No,Escalated,10.0,Phone
+S01062,C0067,2026-04-01,Password reset,No,Resolved,2.0,Phone
+S01063,C0211,2026-05-07,Balance enquiry,Yes,Resolved,3.0,Phone
+S01064,C0164,2026-04-02,Card issue,No,Resolved,4.0,Branch
+S01065,C0232,2025-10-20,Transaction dispute,No,Resolved,2.0,Phone
+S01066,C0245,2026-05-13,Loan enquiry,No,Resolved,0.0,Mobile App
+S01067,C0069,2026-09-29,Balance enquiry,Yes,Resolved,1.0,Email
+S01068,C0134,2026-06-24,Card issue,No,Resolved,1.0,Email
+S01069,C0089,2025-12-12,Digital banking help,No,Resolved,3.0,Branch
+S01070,C0168,2025-10-14,Card issue,No,Resolved,1.0,Phone
+S01071,C0145,2026-04-25,Balance enquiry,Yes,Resolved,2.0,Mobile App
+S01072,C0102,2025-12-09,Card issue,No,Pending,5.0,Phone
+S01073,C0044,2025-11-13,Balance enquiry,No,Pending,6.0,Email
+S01074,C0213,2025-11-15,Digital banking help,No,Escalated,5.0,Branch
+S01075,C0189,2026-02-09,Transaction dispute,Yes,Resolved,3.0,Mobile App
+S01076,C0094,2026-03-21,Card issue,Yes,Pending,5.0,Website
+S01077,C0202,2026-01-23,Card issue,Yes,Escalated,6.0,Branch
+S01078,C0194,2026-02-12,Account update,No,Resolved,1.0,Website
+S01079,C0293,2026-03-08,Card issue,No,Resolved,5.0,Phone
+S01080,C0115,2026-04-10,Digital banking help,No,Escalated,7.0,Mobile App
+S01081,C0011,2026-08-25,Digital banking help,Yes,Resolved,6.0,Phone
+S01082,C0012,2025-12-01,Card issue,Yes,Resolved,1.0,Website
+S01083,C0286,2026-07-28,Account update,No,Resolved,1.0,Website
+S01084,C0118,2025-11-17,Loan enquiry,No,Pending,6.0,Branch
+S01085,C0046,2026-04-21,Digital banking help,No,Resolved,2.0,Mobile App
+S01086,C0237,2026-02-10,Account update,No,Resolved,2.0,Branch
+S01087,C0102,2025-10-22,Digital banking help,Yes,Pending,4.0,Branch
+S01088,C0135,2026-01-25,Password reset,No,Resolved,2.0,Phone
+S01089,C0087,2026-05-21,Account update,No,Escalated,6.0,Mobile App
+S01090,C0026,2026-09-18,Account update,No,Resolved,1.0,Website
+S01091,C0206,2026-01-20,Digital banking help,Yes,Resolved,0.0,Phone
+S01092,C0220,2026-07-01,Balance enquiry,No,Resolved,1.0,Mobile App
+S01093,C0134,2025-12-15,Password reset,No,Resolved,2.0,Branch
+S01094,C0077,2026-06-16,Digital banking help,No,Resolved,1.0,Website
+S01095,C0046,2026-08-17,Account update,Yes,Resolved,11.0,Mobile App
+S01096,C0189,2026-09-18,Balance enquiry,No,Resolved,3.0,Phone
+S01097,C0088,2026-01-07,Balance enquiry,Yes,Resolved,1.0,Branch
+S01098,C0291,2026-07-10,Account update,Yes,Resolved,3.0,Phone
+S01099,C0061,2026-09-22,Loan enquiry,Yes,Resolved,3.0,Website
+S01100,C0008,2026-07-28,Digital banking help,No,Resolved,1.0,Phone
